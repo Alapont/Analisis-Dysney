@@ -5461,7 +5461,7 @@ COCO
 
 
                              MIGUEL
-                   No, it's in there.    Look.
+                  No, it's in there.    Look.
 
       Miguel looks around and points to the movie clip projected
       across the room.
@@ -5469,29 +5469,29 @@ COCO
       FILM CLIP:
 
                              DON HIDALGO (FILM CLIP)
-                   Never were truer words spoken.
-                   This calls for A TOAST! To our
-                   friendship! I would move Heaven
-                   and Earth for you, mi amigo.
+                  Never were truer words spoken.
+                  This calls for A TOAST! To our
+                  friendship! I would move Heaven
+                  and Earth for you, mi amigo.
 
                              MIGUEL
-                   But in the movie, Don Hidalgo
-                   poisons the drink...
+                  But in the movie, Don Hidalgo
+                  poisons the drink...
 
                               DON HIDALGO (FILM CLIP)
-                   Salud!
+                  Salud!
 
       In the clip Don Hidalgo and de la Cruz drink.      De la Cruz
       spits his drink.
 
                               DE LA CRUZ (FILM CLIP)
-                   Poison!
+                  Poison!
 
       Héctor's gears are turning too.
 
                              HÉCTOR
-                   That night, Ernesto.    The night I
-                   left...
+                  That night, Ernesto.    The night I
+                  left...
 
       FLASHBACK:
 
@@ -5502,17 +5502,17 @@ COCO
       his guitar case like he means to leave.
 
                              HÉCTOR (V.O.)
-                   We'd been performing on the road
-                   for months. I got homesick -- and
-                   I packed up my songs...
+                  We'd been performing on the road
+                  for months. I got homesick -- and
+                  I packed up my songs...
 
                              YOUNG DE LA CRUZ
-                   You wanna give up now? When we're
-                   this close to reaching our dream?
+                  You wanna give up now? When we're
+                  this close to reaching our dream?
 
                              YOUNG HÉCTOR
-                   This was your dream. You'll
-                   manage.
+                  This was your dream. You'll
+                  manage.
 
 
 
@@ -5583,7 +5583,7 @@ COCO
       BLACK.
 
                              HÉCTOR (V.O.)
-                   I woke up dead.
+                  I woke up dead.
 
                                                     BACK TO:
 
@@ -5591,15 +5591,15 @@ COCO
       INT. DE LA CRUZ'S MANSION
 
                              HÉCTOR
-                   You... POISONED me.
+                  You... POISONED me.
 
                              DE LA CRUZ
-                   You're confusing movies with
-                   reality, Héctor.
+                  You're confusing movies with
+                  reality, Héctor.
 
                              HÉCTOR
-                   All this time I thought it was just
-                   bad luck.
+                  All this time I thought it was just
+                  bad luck.
 
       FLASHBACK:
 
@@ -5610,8 +5610,8 @@ COCO
       songbook.
 
                              HÉCTOR
-                   I never thought that you might
-                   have... that you...
+                  I never thought that you might
+                  have... that you...
 
                                                     BACK TO:
 
@@ -5622,13 +5622,13 @@ COCO
       tackling him to the ground.
 
                              HÉCTOR
-                   How could you?!
+                  How could you?!
 
                                MIGUEL
-                   Héctor!
+                  Héctor!
 
                                DE LA CRUZ
-                   Security!    Security!
+                  Security!    Security!
 
       Miguel watches as Héctor and Ernesto scuffle on the floor.
 
@@ -5880,16 +5880,16 @@ COCO
 
 
                              HÉCTOR
-                   Where... where did you get this?
+                  Where... where did you get this?
 
                              MIGUEL
-                   That's my Mamá Coco. That's my
-                   Mamá Imelda. Is that... you?
+                  That's my Mamá Coco. That's my
+                  Mamá Imelda. Is that... you?
 
       Gears turn in both of their heads.
 
                               HÉCTOR
-                   We're...
+                  We're...
 
                     HÉCTOR                              MIGUEL
       ...family?                           ...family?
@@ -5901,37 +5901,37 @@ COCO
       becomes saddened.
 
                               HÉCTOR
-                   I always hoped I'd see her again.
-                   That she'd miss me... maybe put up
-                   my photo. But it never happened.
+                  I always hoped I'd see her again.
+                  That she'd miss me... maybe put up
+                  my photo. But it never happened.
                        (beat)
-                   You know the worst part?
+                  You know the worst part?
+                      (beat)
+                  Even if I never got to see Coco in
+                  the living world... I thought at
+                  least one day I'd see her here.
+                  Give her the biggest hug...
                        (beat)
-                   Even if I never got to see Coco in
-                   the living world... I thought at
-                   least one day I'd see her here.
-                   Give her the biggest hug...
-                       (beat)
-                   But she's the last person who
-                   remembers me. The moment she's
-                   gone from the living world...
+                  But she's the last person who
+                  remembers me. The moment she's
+                  gone from the living world...
 
                              MIGUEL
-                   You disappear... from this one.
-                   You'll never get to see her...
+                  You disappear... from this one.
+                  You'll never get to see her...
 
                              HÉCTOR
-                   ...Ever again.
+                  ...Ever again.
 
       Héctor is quiet for a moment.
 
                              HÉCTOR
-                   You know, I wrote her a song once.
-                   We used to sing it every night at
-                   the same time, no matter how far
-                   apart we were. What I wouldn't
-                   give to sing it to her... one last
-                   time.
+                  You know, I wrote her a song once.
+                  We used to sing it every night at
+                  the same time, no matter how far
+                  apart we were. What I wouldn't
+                  give to sing it to her... one last
+                  time.
 
 
 
@@ -5951,25 +5951,25 @@ COCO
 
                              HÉCTOR
                        (singing)
-                   REMEMBER ME
-                   THOUGH I HAVE TO SAY GOODBYE
-                   REMEMBER ME
-                   DON'T LET IT MAKE YOU CRY
-                   FOR EVEN IF I'M FAR AWAY
-                   I HOLD YOU IN MY HEART
-                   I SING A SECRET SONG TO YOU
-                   EACH NIGHT WE ARE APART
-                   REMEMBER ME
+                  REMEMBER ME
+                  THOUGH I HAVE TO SAY GOODBYE
+                  REMEMBER ME
+                  DON'T LET IT MAKE YOU CRY
+                  FOR EVEN IF I'M FAR AWAY
+                  I HOLD YOU IN MY HEART
+                  I SING A SECRET SONG TO YOU
+                  EACH NIGHT WE ARE APART
+                  REMEMBER ME
 
                              YOUNG COCO
                        (giggling)
-                   Papá!
+                  Papá!
 
                              HÉCTOR
                        (singing)
-                   THOUGH I HAVE TO TRAVEL FAR
-                   REMEMBER ME
-                   EACH TIME YOU HEAR A SAD GUITAR
+                  THOUGH I HAVE TO TRAVEL FAR
+                  REMEMBER ME
+                  EACH TIME YOU HEAR A SAD GUITAR
 
       Father and daughter sing the song together.
 
@@ -5988,8 +5988,8 @@ COCO
       The echo of Héctor's song fades to silence.
 
                               MIGUEL
-                   He stole your guitar... He stole
-                   your songs...
+                  He stole your guitar... He stole
+                  your songs...
                        (beat)
                               (MORE)
 
@@ -6324,10 +6324,10 @@ COCO
       STAGE WING
 
                              FRIDA
-                   Good luck, muchacho.
+                  Good luck, muchacho.
 
                              MIGUEL
-                   Gracias Frida!
+                  Gracias Frida!
 
 
       INT. BACKSTAGE CORRIDOR - MOMENTS LATER
@@ -6336,16 +6336,16 @@ COCO
       shedding their Frida outfits. Miguel rips off his unibrow.
 
                               MIGUEL
-                   Ow!
+                  Ow!
 
       Dante has snuck in under Tío Oscar's skirt.   Héctor sees that
       Imelda is tangled up in her outfit.
 
                              HÉCTOR
-                   Here, let me help you with--
+                  Here, let me help you with--
 
                              MAMÁ IMELDA
-                   Don't touch me.
+                  Don't touch me.
 
       The family joins together in a huddle.
 
@@ -7006,21 +7006,21 @@ COCO
 
 
                              DE LA CRUZ
-                   Nice kitty...
+                  Nice kitty...
 
       Suddenly Pepita head-butts de la Cruz and lifts him into the
       sky, flinging the singer in the air like a kitten playing
       with a ball of yarn.
 
                              DE LA CRUZ
-                   AAAHHHH! Put me down! No, please!
-                   I beg of you, stop! Stop! NO!
+                  AAAHHHH! Put me down! No, please!
+                  I beg of you, stop! Stop! NO!
 
       She swings him around to gain momentum, then throws him over
       the audience.
 
                               DE LA CRUZ
-                   NO!   AAAHHH!
+                  NO!   AAAHHH!
 
       He flies out of the stadium, hitting a giant church bell in
       the distance. The stadium erupts in cheers.
@@ -7029,7 +7029,7 @@ COCO
       returns from concessions.
 
                              CROWD MEMBER
-                   What did I miss?
+                  What did I miss?
 
                                                      BACK TO:
 
@@ -7039,21 +7039,21 @@ COCO
       Miguel is surrounded by family, safe.        He hugs Dante.
 
                              MIGUEL
-                   Good boy, Dante.
+                  Good boy, Dante.
 
       Imelda runs to Miguel and embraces him.
 
                               MAMÁ IMELDA
-                   Miguel!
+                  Miguel!
 
       Behind them, Héctor struggles to get to his feet but stumbles
       with a flicker. Miguel runs to support him.
 
                               MIGUEL
-                   Héctor!   The photo, I lost it...
+                  Héctor!   The photo, I lost it...
 
                              HÉCTOR
-                   It's okay, mijo. It's--
+                  It's okay, mijo. It's--
 
       Suddenly Héctor suffers his most violent flickering yet.      He
       collapses. Miguel kneels by him.
@@ -7126,22 +7126,22 @@ COCO
 
 
                              MIGUEL
-                   No, Papá Héctor, please!
+                  No, Papá Héctor, please!
 
       Imelda and Héctor move their joined hands toward Miguel's
       chest.
 
                                 MIGUEL
-                   No...
+                  No...
 
       Héctor's eyelids begin to close.
 
                                 HÉCTOR
-                   Go home...
+                  Go home...
 
                              MIGUEL
-                   I promise I won't let Coco forget
-                   you! Aaahh!--
+                  I promise I won't let Coco forget
+                  you! Aaahh!--
 
       WHOOOOSH! A whirlwind of marigold petals, and everything
       goes white.
@@ -7169,14 +7169,14 @@ COCO
 
                              TÍO BERTO
                        (jolting awake)
-                   There he is!
+                  There he is!
 
       Abel falls off the bench.
 
       Papá comes from around a corner as Miguel is running.
 
                               PAPÁ
-                   Miguel!?   Stop!
+                  Miguel!?   Stop!
 
 
 
