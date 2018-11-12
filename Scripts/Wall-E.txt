@@ -131,11 +131,9 @@ WALL-E
                         Too much garbage in your face?
                                (Ad #2: starliner in space)
                         There's plenty of space out in space!
-                               (Ad #3: starliners take off
-                                from Earth)
+                               (Ad #3: starliners take offfrom Earth)
                         BNL starliners leaving each day.
-                               (Ad #4: WALL-E units wave
-                                goodbye)
+                               (Ad #4: WALL-E units wavegoodbye)
                         We'll clean up the mess while you're
                         away.
           
