@@ -3,8 +3,7 @@ VOICE (CONT.): In a world-wide network of electronics, they travel through miles
 T R O N ! !:
 CUT TO::
 CUT TO::
-CUT TO::
-"WINNER:  BLUE - SARK!!":
+CUT TO:: "WINNER:  BLUE - SARK!!"
 BOY'S VOICE: Aagh! God, Lisa, I almost had you that time.
 DISSOLVE TO::
 BOY: Lemme play you again?
@@ -46,9 +45,7 @@ FLYNN: Come on, you scuzzy little data, be in there...
 FLYNN: I've got such nice blue paper to print you out on, if you'll just sit still...
 CUT TO::
 CLU: Uh oh...we got company.
-BIT:
-(coming into shape again,:
-but red this time): No!
+BIT: (coming into shape again, but red this time) No!
 CLU: You said it ... one of those Recognizers comes after me, gonna hafta jump clear out of the data stream.
 CUT TO::
 CLU: Oh my...the long arm o' the law.
@@ -59,9 +56,7 @@ DISSOLVE TO::
 GUARD: Got a pirate program here... says his name's Clu.
 MCP: What'd he pull?
 GUARD: Came into the system with a stolen password ... an' we caught him tryin' to raid a high-clearance memory.
-CLU:
-(looks up, his face:
-wracked with pain): No...I must've gotten in there by mistake, I -
+CLU: (looks up, his face wracked with pain) No...I must've gotten in there by mistake, I -
 MCP: Who programmed you?
 MCP (CONT.): You're in trouble, pal...big trouble. But if you tell us who put you up to it, you could make it easy on yourself. Come on, who's your user?
 CLU: Forget it, Mister High 'n' Mighty Master Control ... you're not makin' me talk.
@@ -138,10 +133,7 @@ ALAN: Great. Can it send me to Hawaii?
 GIBBS: Yes...but you have to go roundtrip, and you must purchase your program at least 30 days in advance. Hah!
 LORA: How's it going upstairs?
 ALAN: Frustrating. I had Tron almost ready to run, and Dillinger cut everybody with Group 7 access out of the system.
-ALAN:
-Ever since he got that Master Control:
-Program set up, system's got more bugs:
-than a bait store.:
+ALAN: Ever since he got that Master Control Program set up, system's got more bugs than a bait store.
 GIBBS: Well, you have to expect some static. Computers are just machines after all, they can't think...
 ALAN: They'll start to soon enough.
 GIBBS: Yes, won't that be grand -- the computers will start thinking, and people will stop. Lora, I'm going to stay and run some data through. See you tomorrow.
@@ -174,28 +166,20 @@ FLYNN: Hey! Good to see you guys! Nothing classes up the place like a cleancut y
 LORA: We have to talk.
 FLYNN: Good luck. You can't even think in here.
 FLYNN: Come on.
-FLYNN:
-(stretching his:
-arms, relaxing): So...how's the world of serious science?
+FLYNN: (stretching his arms, relaxing) So...how's the world of serious science?
 LORA: Have you been sneaking into the ICOM system?
 FLYNN: Whew. You never were much for small talk. She still leave her clothes all over the floor?
 LORA: Flynn!
 ALAN: Uh, no ... I mean, not that often -
-LORA:
-(to Alan,:
-indicating arcade): You can see why all his friends are fourteen years old.
+LORA: (to Alan, indicating arcade) You can see why all his friends are fourteen years old.
 FLYNN: Touche, honey. Yeah, I've been doing a little hacking here. Which I've got every reason, as you well know...
 ALAN: You did break in.
-FLYNN: Tried to.
-(nods toward:
-terminal): Can't quite make the connection with that sucker, though. If I had a direct terminal ...
+FLYNN: Tried to. (nods toward terminal) Can't quite make the connection with that sucker, though. If I had a direct terminal ...
 ALAN: Are you embezzling?
 FLYNN: "Embezzling" is such an ugly word, Mister Bailey... No, actually I'm trying to get a legal brief together.
 ALAN: I don't get it.
 FLYNN: You haven't told him?
-FLYNN (CONT.): Sherman, set the Wayback Machine for...oh, 1973. Kevin Flynn is one of the brightest young software engineers at ICOM. He's so bright that he starts going in there at night, and sets up a private memory file, and begins writing a program for a video game he is inventing, called...
-(waves at one of the:
-games in the room): ...Space Paranoids.
+FLYNN (CONT.): Sherman, set the Wayback Machine for...oh, 1973. Kevin Flynn is one of the brightest young software engineers at ICOM. He's so bright that he starts going in there at night, and sets up a private memory file, and begins writing a program for a video game he is inventing, called... (waves at one of the games in the room) ...Space Paranoids.
 ALAN: You invented Space Paranoids?
 FLYNN: Yepper. And Vice Squad, and Meltdown... whole slew of 'em. I was this close to starting my own little enterprise. But: enter Ed Dillinger. Another software engineer -- not so young, not so bright, but very, very sneaky. One night, our boy Flynn goes to his terminal, tries to read up his file, and ... nothing. A big blank. We now take you to three months later. Ed Dillinger presents ICOM with five video games he has "invented" -- the slime didn't even change the names -- and he gets a big fat promotion. Thus begins his meteoric rise to...what is he now, Executive V.P.?
 ALAN: Senior exec.
@@ -245,9 +229,7 @@ SCREEN: Access code 6. Password Series PS 17. Reindeer, Flotilla --
 MCP: You shouldn't have come back, Flynn.
 FLYNN: Hey hey, it's that big Master Control Program everybody's talking about... You don't look a thing like your pictures... Tell me, have you really been thinking about world domination like they say? CODE SERIES LSU-123 ... activate. CODE SERIES ESS-999 ... activate. CODE SERIES HHH-888 ... activate.
 MCP: That isn't going to do you any good, Flynn. I'm afraid you...
-MCP:
-(continuing;:
-slightly shaken): Stop, Flynn. You realize I can't allow this.
+MCP: (continuing; slightly shaken) Stop, Flynn. You realize I can't allow this.
 CUT TO::
 CUT TO::
 SCREEN MCP:: Terminate control mode. Activate Matrix storage.
@@ -279,12 +261,8 @@ SARK: Yes...acknowledge, Master Control...
 MCP: End of line.
 CUT TO::
 GUARD: Video Game Unit #18. In here, program.
-FLYNN:
-(trying to grab:
-the guard's arm): Who you callin' "program," program?
-RAM:
-(looking over:
-his shoulder): New guy...
+FLYNN: (trying to grab the guard's arm) Who you callin' "program," program?
+RAM: (looking over his shoulder) New guy...
 TRON: Another free program off line.  What's his User s'posed to do -- ?
 RAM: The Users...you really think they're still there?
 TRON: They'd better be...I don't want to bust outta this dump an' find nothin' but a lot of cold circuits waitin' for me.
@@ -296,9 +274,7 @@ RAM: You're a..."guest" of the Master Control Program. They're going to make you
 FLYNN: Well, great, that's no sweat -- I play video games better than anybody.
 CUT TO::
 HEAD GUARD: Look operative, you guys. Command Program Sark will explain the training procedures.
-SARK:
-(reciting a:
-routine statement): Greetings. The Master Control Program has chosen you to serve your system on the Came Grid.
+SARK: (reciting a routine statement) Greetings. The Master Control Program has chosen you to serve your system on the Came Grid.
 SARK: Those of you who continue to profess a belief in the Users will receive the standard substandard training. This will result in your eventual elimination.
 SARK V.0.: Those of you who renounce this superstitious and hysterical belief will be eligible to join the Warrior Elite of the MCP.
 SARK V.0.:
@@ -315,12 +291,8 @@ spins and catches a pellet.:
 hits perfectly.:
 END MONTAGE:
 FLYNN: Hey, Ram ... what were you ... you know, before?
-RAM:
-(nostalgic,:
-brightens): Oh, I was an actuarial program... worked at a big insurance company. It really gives you a great feeling, helping folks plan for their future needs -- and of course, if you look at the payments as an annuity, over the years, the cost is really
-FLYNN:
-(about to:
-get bored): Yeah, yeah -- that's great.
+RAM: (nostalgic, brightens) Oh, I was an actuarial program... worked at a big insurance company. It really gives you a great feeling, helping folks plan for their future needs -- and of course, if you look at the payments as an annuity, over the years, the cost is really
+FLYNN: (about to get bored) Yeah, yeah -- that's great.
 RAM: How 'bout yourself?
 FLYNN: Oh, uh...I don't remember too much...
 RAM: Sure, a little disorientation. That's normal, when they transport you. It'll come back to you. You're doing real well in training. Remarkable, really...
@@ -339,9 +311,7 @@ SARK: Kill him!!!
 FLYNN: No!
 SARK: You'll regret this.
 SARK: No! You said he could die in the games
-WARRIOR:
-(turning on Flynn,:
-snarling): Outta  my way, rookie.
+WARRIOR: (turning on Flynn, snarling) Outta  my way, rookie.
 FLYNN: Out of my way, zero bit.
 WARRIOR: Sure, sure ... just kiddin'.
 RAM: Flynn! Look, Tron, he survived!
@@ -368,16 +338,12 @@ FLYNN: Watch it!
 RAM: Recognizers!
 TRON: Game Tanks! Come on
 FLYNN: Oh man...when you're on the other side of the screen...it all looks so easy...
-SARK:
-(to one of the bridge:
-personnel): Get the pursuit force back into 404A. There's no place else they could be...
+SARK: (to one of the bridge personnel) Get the pursuit force back into 404A. There's no place else they could be...
 LIEUTENANT: We'll have them in no time, sir. Long before the interrupt interface.
 SARK: We better, null unit. I'll be lucky if the MCP doesn't blast me into a dead zone. I want those programs!
 FLYNN: It's all circuits... Must be an input/output component...
 RAM: The tower, yes -- Flynn, have you remembered anything else about yourself -- like what sector you're from?
-FLYNN:
-(sitting down:
-against a rock): Well...my home "sector" was called Paramus ...
+FLYNN: (sitting down against a rock) Well...my home "sector" was called Paramus ...
 RAM: PARAMUS... wonder what those initials stand for ... (starts counting them off on his fingers) ...probably Program Assist Routine -- well, it sounds like a lovely place.
 FLYNN: It grows on you.
 TRON: I can feel it ...
@@ -386,9 +352,7 @@ RAM: Alan-One...
 TRON: Yes... he's got something to tell me...
 RAM: You think we can make it there?
 TRON: We have to.
-FLYNN:
-(pointing to a corner:
-of the cave): Hey, what's that?
+FLYNN: (pointing to a corner of the cave) Hey, what's that?
 RAM: it's just what we need.
 TRON: Oh, that's nice. You always forget how good fresh energy feels, till you get to a pure source... Have some...you'll need it.
 FLYNN: well... when do we pay a call on the ol' Master Control?
@@ -411,13 +375,9 @@ FLYNN: You gonna make it?
 CUT TO::
 CUT TO::
 FADE TO BLACK::
-FLYNN:
-(holding onto:
-the wall): What's goin' on?
+FLYNN: (holding onto the wall) What's goin' on?
 RAM: We're inside a Recognizer... You are crazy -- stealing a Recognizer --
-FLYNN:
-(stumbling, trying to:
-keep his balance): Are you kidding? I think it's stealing us -
+FLYNN: (stumbling, trying to keep his balance) Are you kidding? I think it's stealing us -
 CUT TO::
 FLYNN: You okay? You don't look so good.
 FLYNN (CONT.): Hang on. We'll get you outta here.
@@ -436,9 +396,7 @@ BIT: Yes!
 FLYNN: What do you mean, "'yes"?
 BIT: Yesssss. Yes. Yes. Yes.
 FLYNN: That all you can say?
-BIT:
-(of course not,:
-you know better): No, nyet, negatory, not on your tintype, no way.
+BIT: (of course not, you know better) No, nyet, negatory, not on your tintype, no way.
 FLYNN: Oh. Anything else?
 BIT: Oui, da, yessiree, sure 'nuff, you betcha.
 FLYNN: only yes and no... You're a bit.
@@ -449,10 +407,8 @@ FLYNN: I'm your program?
 BIT: Right on the money!
 FLYNN: Another mouth to feed... you don't by any chance know how to drive this crate?
 FLYNN (CONT.): Like so?
-FLYNN:
-Way to go! We're haulin'!:
-BIT:
-Yes, okay, exactement!:
+FLYNN: Way to go! We're haulin'!
+BIT: Yes, okay, exactement!
 CUT TO::
 CUT TO::
 TRON: I'm not gonna hurt you.
@@ -460,13 +416,9 @@ TRON (CONT.): I'm going to let you go now... don't scream, or I'll be very sorry
 CUT TO::
 TRON: Put your hand behind your back.
 GIRL: TRON!!
-TRON:
-(smiling, hugging:
-her tightly): Yori... hey...
+TRON: (smiling, hugging her tightly) Yori... hey...
 YORI: Oh, Tron... I knew you'd escape... they've never built circuit that could hold you...
-YORI:
-(pulling him by:
-his hand): This way. Come on.
+YORI: (pulling him by his hand) This way. Come on.
 CUT TO::
 PROGRAM: ...artillery for Video Game Sector...
 PROGRAM 2: ...all mathematical functions transferred to...
@@ -490,9 +442,7 @@ CUT TO::
 FLYNN: This honey doesn't handle so good in town...
 BIT: No, nuh-uh, never in a million years!
 BIT: Ix-nay! Noper! Under no conditions -
-BIT:
-(that's more:
-like it): Right, confirmed, I couldn't have put it -
+BIT: (that's more like it) Right, confirmed, I couldn't have put it -
 CUT TO:
 CUT TO::
 FLYNN: Catch me listening to you again.
@@ -567,9 +517,7 @@ YORI (V.0.): This way...there's a simulation we can use...
 TRON V.O.: Can it carry us?
 YORI V.0.: The design is good... We don't know why the User abandoned the project...
 YORI: Yes...it can take us across the Sea of Simulation... all the way out of the Game Grid...to the MCP.
-TRON:
-(looking out:
-of hangar): As long as it gets us out of here
+TRON: (looking out of hangar) As long as it gets us out of here
 CUT TO::
 CUT TO::
 CUT TO::
@@ -589,9 +537,7 @@ MCP: I don't have time, Sark. And neither do you. End of line.
 YORI V.O.: Tron, are you all right?
 CUT TO::
 CUT TO::
-BIT:
-(buzzing around Tron's:
-head like a fly): No way, not on your life, no siree!! Nothing doing, forget it!!!
+BIT: (buzzing around Tron's head like a fly) No way, not on your life, no siree!! Nothing doing, forget it!!!
 CUT TO::
 CUT TO::
 TRON: Flynn!!
@@ -599,9 +545,7 @@ FLYNN: Greetings, program...
 TRON: You're alive!
 FLYNN: Yeah, I... oops!
 YORI: Who is this?
-TRON: Flynn...
-(he turns to:
-Flynn eagerly): Where's Ram?
+TRON: Flynn... (he turns to Flynn eagerly) Where's Ram?
 FLYNN: I'm sorry, Tron... he's... he didn't make it.
 TRON: This is Flynn... the one who busted me out.
 YORI: Then I owe you some thanks...
@@ -631,9 +575,7 @@ CUT TO::
 FLYNN: What about our friend - Sark?
 TRON: Probably decided not to pursue us, The Sea of Simulation is tricky.. lot of illusions...rough navigating. Programs have a way of just... disappearing here.
 FLYNN: Not us, I hope.
-TRON:
-(shakes his head,:
-indicates disk): Not with this disk. I'm going to check on the beam connection, Yori. You two can keep a watch out for grid bugs.
+TRON: (shakes his head, indicates disk) Not with this disk. I'm going to check on the beam connection, Yori. You two can keep a watch out for grid bugs.
 FLYNN: Boy the view from up here... you know the territory?
 YORI: A little ... Over there, the Mountains of Data... and I think that's the Silicon Valley...
 FLYNN: What's wrong with that area?
@@ -643,9 +585,7 @@ DUMONT: What do you want? I'm busy.
 SARK: Busy dying, you worn-out excuse for an old program.
 DUMONT: Yes, I'm old.
 DUMONT: Old enough to remember the MCP when he was just a chess program. He started small, and he'll end small.
-SARK:
-(throws back his:
-head and laughs): That's very funny, Dumont. Maybe I should keep you around, just to make me laugh.
+SARK: (throws back his head and laughs) That's very funny, Dumont. Maybe I should keep you around, just to make me laugh.
 SARK: Guards! Bring this antique to the bridge so he can watch his friends be obliterated.
 CUT TO::
 CUT TO::
@@ -678,9 +618,7 @@ FLYNN: Hey... you guys OK?
 TRON: How about you?
 FLYNN: Aah, I'm fine... little hung over is all...
 YORI: How did you do that, Flynn?
-FLYNN: Elementary physics... a beam of energy can always be diverted... ooh, my head
-(looks around --:
-to Yori): Are we there yet, Mommy?
+FLYNN: Elementary physics... a beam of energy can always be diverted... ooh, my head (looks around -- to Yori) Are we there yet, Mommy?
 YORI: Almost... I just have to adjust our course at the next junction. I'd better go check the instruments ...
 TRON (V.0.): Sark!
 CUT TO::
@@ -690,9 +628,7 @@ CUT TO::
 DUMONT: Quietly, Yori...
 DUMONT: Tron... ?
 YORI: He's dead.
-DUMONT:
-(sighs, looks:
-at Flynn): And who is this?
+DUMONT: (sighs, looks at Flynn) And who is this?
 YORI: He's a User, Dumont. He came to our world... trying to help us...
 DUMONT: If the Users can no longer help us...
 SARK: So... we have erased the program that -
@@ -742,9 +678,7 @@ MCP: Sark! How have you allowed this program to
 TRON: Sark's out. Would you like to leave a message?
 MCP: I am the message. The only message. Sark!
 MCP: SARK!
-TRON:
-(trying to pull:
-Dumont away from wall): Dumont!
+TRON: (trying to pull Dumont away from wall) Dumont!
 DUMONT: No... Tron ... must... destroy MCP... first...
 TRON: Dumont! Where's Yori? Where's Flynn?
 DUMONT: They may be... de-rezzed... on the carrier ... hurry...
@@ -757,9 +691,7 @@ FLYNN: Jump.
 YORI: But... won't you be de-rezzed?
 FLYNN: Probably.
 YORI: Flynn... you can't... I
-FLYNN:
-(lays finger on:
-her lips): Shhhhh.
+FLYNN: (lays finger on her lips) Shhhhh.
 FLYNN (CONT.): I'm sure Tron wouldn't mind if... just once...
 FLYNN: Don't worry.
 SARK/MCP: End of line, program...

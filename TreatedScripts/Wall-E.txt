@@ -268,9 +268,7 @@ CAPTAIN: Unsustainable? What?
 BUY N LARGE CEO: Darn it all, we're going to have to cancel Operation Recolonize. So just, uh...just stay the course. Rather than try to fix this problem, it'll just be easier if everyone remains in space.
 CAPTAIN: Easier?
 CEO ADVISOR (O.S.): Mr. President, sir, it's time to go.
-BUY N LARGE CEO: Alright, uh...uh...I'm giving override directive: "A113". Go to full autopilot. Take control of everything! And do not return to Earth! Repeat! Do not return to Earth!
-(throws on his gas mask; to:
-camera crew): Now let's get the heck out of here.
+BUY N LARGE CEO: Alright, uh...uh...I'm giving override directive: "A113". Go to full autopilot. Take control of everything! And do not return to Earth! Repeat! Do not return to Earth! (throws on his gas mask; to camera crew) Now let's get the heck out of here.
 AUTOPILOT: Now, the plant.
 CAPTAIN: No, wait a minute. Computer, when was that message sent to the Axiom?
 SHIP'S COMPUTER: Message received in the year 2110.
@@ -374,5 +372,4 @@ EVE: Wall-E!
 WALL-E: Ee-vah!!
 M-O: Go! Go, go go!
 DISSOLVE TO::
-CAPTAIN: This is called "farming"! You kids are going to grow all kinds of plants: vegetable plants, pizza plants! Ahh, it's good to be home...
-THE END:
+CAPTAIN: This is called "farming"! You kids are going to grow all kinds of plants: vegetable plants, pizza plants! Ahh, it's good to be home... THE END
