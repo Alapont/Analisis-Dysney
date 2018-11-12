@@ -66,8 +66,7 @@ FROZEN - J. Lee:
 KING: No. We'll protect her. She can learn to control it. I'm sure.
 DISSOLVE TO::
 KING (O.S.) (CONT'D): Until then, we'll lock the gates. We'll reduce the staff. We will limit her contact with people and keep her powers hidden from everyone... including Anna.
-DISSOLVE TO::
-"Do You Want to Build a Snowman?":
+DISSOLVE TO:: "Do You Want to Build a Snowman?"
 YOUNG ANNA: DO YOU WANT TO BUILD A SNOWMAN? COME ON LET'S GO AND PLAY.
 YOUNG ANNA (CONT'D): I NEVER SEE YOU ANYMORE. COME OUT THE DOOR. IT'S LIKE YOU'VE GONE AWAY.
 9:
@@ -127,8 +126,7 @@ ANNA: Ready for what?
 KAI (O.S.): Your sister's coronation, ma'am.
 ANNA: My sister's cor-neration...
 ANNA (CONT'D): Coronation Day! Ha ha!
-SLAM CUT TO::
-"For the First Time in Forever":
+SLAM CUT TO:: "For the First Time in Forever"
 ANNA: THE WINDOW IS OPEN! SO'S THAT DOOR! I DIDN'T KNOW THEY DID THAT ANYMORE. WHO KNEW WE OWNED 8000 SALAD PLATES...?
 ANNA (CONT'D): FOR YEARS I HAVE ROAMED THESE EMPTY HALLS WHY HAVE A BALLROOM WITH NO BALLS? FINALLY, THEY'RE OPENING UP THE GATES!
 FROZEN - J. Lee:
@@ -362,9 +360,7 @@ DUKE: Look! It's snowing! It's snowing! The Queen has cursed this land! She must
 ANNA: Wait, no!
 DUKE: You! Is there sorcery in you, too? Are you a monster, too?
 ANNA: No. No. I'm completely ordinary.
-HANS: That's right she is...
-(realizing how that:
-sounds): ...in the best way.
+HANS: That's right she is... (realizing how that sounds) ...in the best way.
 ANNA: ...And my sister's not a monster.
 DUKE: She nearly killed me.
 HANS: You slipped on ice.
@@ -443,8 +439,7 @@ KRISTOFF: No Sven, I didn't get your carrots.
 KRISTOFF (CONT'D): But I did find us a place to sleep. And it's free.
 OAKEN: I'm sorry about this violence. I will add a quart of lutefisk, so we'll have good feelings. Just the outfit and boots, yah?
 FROZEN - J. Lee:
-CUT TO::
-"Reindeer(s) are Better than People":
+CUT TO:: "Reindeer(s) are Better than People"
 KRISTOFF: REINDEERS ARE BETTER THAN PEOPLE. SVEN, DON'T YOU THINK THAT'S TRUE?
 KRISTOFF (AS SVEN) (CONT'D): YEAH, PEOPLE WILL BEAT YOU & CURSE YOU & CHEAT YOU. EVERY ONE OF EM'S BAD, EXCEPT YOU. Oh, thanks, Buddy. BUT PEOPLE SMELL BETTER THAN REINDEERS. SVEN, DON'T YOU THINK I'M RIGHT? THAT'S ONCE AGAIN TRUE, FOR ALL EXCEPT YOU. YOU GOT ME. LET'S CALL IT A NIGHT. GOOD NIGHT. DON'T LET THE FROSTBITE BITE.
 ANNA: Nice duet.
@@ -574,9 +569,7 @@ OLAF: Now I'm perfect.
 ANNA: Well, almost.
 OLAF: Woo! Head rush!
 ANNA: Oh! Too hard. I'm sorry! I-I, I was just.... Are you okay?
-OLAF: Are you kidding me? I am wonderful! I've always wanted a nose.
-(going cross-eyed to look:
-at his tiny nose): So cute. It's like a little baby unicorn.
+OLAF: Are you kidding me? I am wonderful! I've always wanted a nose. (going cross-eyed to look at his tiny nose) So cute. It's like a little baby unicorn.
 OLAF (CONT'D): What? Hey! Whoa. Oh, I love it even more! Hah.... All right, let's start this thing over. Hi everyone. I'm Olaf. And I like warm hugs.
 ANNA: Olaf?...That's right, Olaf.
 FROZEN - J. Lee:
@@ -729,8 +722,7 @@ ELSA (CONT'D): Goodbye, Anna.
 ANNA: Elsa, wait--
 ELSA: I'm just trying to protect you.
 ANNA: You don't have to protect me. I'm not afraid. Please don't shut me out again.
-FROZEN - J. Lee:
-"First Time in Forever, Reprise":
+FROZEN - J. Lee: "First Time in Forever, Reprise"
 ANNA (CONT'D): PLEASE DON'T SLAM THE DOOR. YOU DON'T HAVE TO KEEP YOUR DISTANCE ANYMORE. `CAUSE FOR THE FIRST TIME IN FOREVER, I FINALLY UNDERSTAND. FOR THE FIRST TIME IN FOREVER, WE CAN FIX THIS HAND IN HAND. WE CAN HEAD DOWN THIS MOUNTAIN TOGETHER. YOU DON'T HAVE TO LIVE IN FEAR. `CAUSE FOR THE FIRST TIME IN FOREVER, I WILL BE RIGHT HERE.
 ELSA: Anna, PLEASE GO BACK HOME. YOUR LIFE AWAITS. GO ENJOY THE SUN AND OPEN UP THE GATES.
 ANNA: Yeah, but--
@@ -824,9 +816,7 @@ KRISTOFF: Aargghh!
 ANNA: Kristoff!
 FROZEN - J. Lee:
 MARSHMALLOW: Don't come back!
-ANNA:
-(grossed out by his snow:
-breath): Ugh. We won't.
+ANNA: (grossed out by his snow breath) Ugh. We won't.
 ANNA (CONT'D): Hey, you were right. Just like a pillow.
 OLAF: I can't feel my legs! I can't feel my legs!
 KRISTOFF: Those are my legs.

@@ -191,8 +191,7 @@ RAGETTI: What's got into *'im*?
 PINTEL: Must've seen a catfish. Heh-heh-heh-heh-heh-heh.
 RAGETTI: Stupid mongrel!
 CANNIBAL ISLAND: beach
-PINTEL: Come on! Ha-ha-ha-ha-ha-ha. Ha-ha-ha-ha...
-###:
+PINTEL: Come on! Ha-ha-ha-ha-ha-ha. Ha-ha-ha-ha... ###
 PINTEL: It's ours for the taking!
 RAGETTI: Tide's comin', that should help. Well, salvagin' is saving, in a manner of speaking.
 PINTEL: There's the truth of *it*! ###
@@ -251,8 +250,7 @@ RAGETTI: He's got me eye! He won't give it back!
 PINTEL: Well, how'd you get it back last time?
 GIBBS: Excellent work! Work's half done!
 PINTEL: We done it for you! Knowin' you'd be comin' back for us.
-GIBBS: ?Make/?Making ?ready ?to?sail/?cast-off
-###, boy.:
+GIBBS: ?Make/?Making ?ready ?to?sail/?cast-off ###, boy.
 WILL TURNER: What about Jack? I won't leave without him.
 JACK SPARROW: Hey!
 WILL TURNER: Time to go.
@@ -531,8 +529,7 @@ GIBBS: Cap'n.
 JACK SPARROW: We have our heading.
 GIBBS: Finally! Cast off those lines, weigh anchor, and prow that canvas!
 JACK SPARROW: Miss Swann.
-GIBBS:
-###:
+GIBBS: ###
 PINTEL: Welcome to the crew, former Commodore! Heh-heh-heh-heh-heh-heh-heh-heh...
 PORT ROYAL: EITC headquarters
 LORD CUTLER BECKETT: There's something to knowing the exact shape of the world and one's place in it, don't you agree?

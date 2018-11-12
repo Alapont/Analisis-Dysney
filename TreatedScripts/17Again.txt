@@ -19,9 +19,7 @@ GIRL'S VOICE (o.s.): Mike?
 MIKE: Who's that stone cold fox? Oh, it's my girlfriend. I'm glad you're here, Scar. This whole scout thing's got me wicked nervous.
 DOM: I'm dedicating my first basket to you, Scarlet.
 MIKE: Way you shoot that might be mid- season! Everything cool?
-SCARLET: Oh yeah. Everything's totally copacetic.
-MIKE: Totally?
-SCARLET: Totally.
+SCARLET: Oh yeah. Everything's totally copacetic. MIKE Totally? SCARLET Totally.
 COACH HARVEY: Let's go! Remember, Boys, winners get the girls. Losers please themselves!
 MIKE: Excellent. Gotta run.
 MIKE (CONT'D): What's wrong?
@@ -60,9 +58,7 @@ MIKE (CONT'D): Ooooh.   That was stupid.
 MALE VOICE (o.s.): You know someone in that picture?
 MIKE: I do. Me.     I'm in the center there.
 JANITOR: Adolescence can be so cruel.
-MIKE: What are you talking about?
-(lost in the picture:
-AGAIN): I had life by the balls in that picture. Everything was possible. Then a few minutes later, pffffft, all gone.
+MIKE: What are you talking about? (lost in the picture AGAIN) I had life by the balls in that picture. Everything was possible. Then a few minutes later, pffffft, all gone.
 JANITOR: `For of all sad words of tongue and pen, the saddest are these: `It might have been...'
 MIKE: That'll be my epitaph.
 JANITOR: We all have regrets.
@@ -502,9 +498,7 @@ SECRETARY: Mr. Freedman, your son has a black eye.
 ED: Wuss!
 ED (CONT'D): Hey, Alex.     How you doin', buddy?
 ALEX: I'm okay I guess.
-ED: Good. Good.
-(turns to Mike, nudges:
-HIM): Nice goin'. How do I look? Anything in my teeth? How's my breath?
+ED: Good. Good. (turns to Mike, nudges HIM) Nice goin'. How do I look? Anything in my teeth? How's my breath?
 SCARLET: Ed.
 ED: Hey, Scarlet. Exciting, isn't it? My first parent/principal conference.
 SCARLET: Fighting?     What's gotten into you?
@@ -526,9 +520,7 @@ JULIE: Look, if it was only one isolated fight it wouldn't distress me all that 
 ED: My son?     Mark!   Get in here!   Now!
 ED (CONT'D): Did you glue a boy to his chair?
 MIKE: No.
-ED: See? The boy's out of control. He's acting up at home. He won't eat his vegetables-
-MIKE                                 ED:
-MIKE                                ED:
+ED: See? The boy's out of control. He's acting up at home. He won't eat his vegetables- MIKE                                 ED MIKE                                ED
 JULIE: Enough! Mark, I know it's hard to be the new kid but if I have anymore trouble from you, you'll be facing detentions or worse. You can go now.
 ED: He's crying out for help and I don't know what to do. It hurts so bad. Maybe we could discuss this over margaritas?
 JULIE: Let's give him time to figure it out on his own. If the situation gets worse then we'll take the next step.
@@ -612,31 +604,15 @@ ALEX: Mom, why are you all dressed up?
 SCARLET: Oh my God. I almost forgot.    I have a date.
 CUT TO::
 MIKE: Let's see who the lucky guy is.
-MIKE (CONT'D):
-I knew it!:
-MIKE (CONT'D):
-I knew you had a thing for him!:
-You can't do this! You took vows.:
-What kind of example are you:
-setting for the kids!?:
-SCARLET:
-Mark, I'm flattered. Really, I am.:
-But I'm too old for you.:
-DOM:
-Wow. You look absolutely:
-ravishing.:
-MIKE:
-Keep it in your pants, Casanova.:
-SCARLET:
-Don't mind him. You all set?:
-DOM:
-Let's do it.:
-DOM (CONT'D):
-Hey, kid...if the vans'a:
-rockin'...well you know the rest.:
-MIKE:
-Don't you lay a finger on her,:
-Johnson! I know where you live!:
+MIKE (CONT'D): I knew it!
+MIKE (CONT'D): I knew you had a thing for him! You can't do this! You took vows. What kind of example are you setting for the kids!?
+SCARLET: Mark, I'm flattered. Really, I am. But I'm too old for you.
+DOM: Wow. You look absolutely ravishing.
+MIKE: Keep it in your pants, Casanova.
+SCARLET: Don't mind him. You all set?
+DOM: Let's do it.
+DOM (CONT'D): Hey, kid...if the vans'a rockin'...well you know the rest.
+MIKE: Don't you lay a finger on her, Johnson! I know where you live!
 ALEX: It's weird to think about my mom with someone other than my dad.
 MIKE: It's adultery! If this were Afghanistan she'd be dragged through the village by goats.   You need to talk to her.
 ALEX: My mom's been pretty sad the past few months. She deserves to be happy. My dad obviously is...wherever he is.
@@ -724,13 +700,9 @@ JAMIE: You can have all 3 of us.
 MIKE: Girls, if I was 20 years younger I'd...probably only last 10 seconds anyway. Put your clothes back on.
 SAMANTHA: Was he crying?
 ED: God's honest truth. I had the whole costume. I used to go everywhere dressed like a wizard. No wonder I didn't get a date all through high school. Annnnd you think I'm the biggest nerd ever.
-JULIE: No, no, really. I don't.
-(catches her breath,:
-suddenly serious): Hark! Who goes there?
+JULIE: No, no, really. I don't. (catches her breath, suddenly serious) Hark! Who goes there?
 ED: Tis I. The Wizard they call Marius. And who might you be fair maiden?
-JULIE: Tis I! Elf Princess Ariala of Jamroar.
-ED                               JULIE:
-ED                             JULIE:
+JULIE: Tis I! Elf Princess Ariala of Jamroar. ED                               JULIE ED                             JULIE
 ED: Check please!
 MIKE: I'm so dead.
 MIKE (CONT'D): Oh no!
@@ -837,8 +809,7 @@ COACH HARVEY: Round up, Jock Straps! Picture time.
 PHOTOGRPAHER:
 MAGGIE: I thought he was hanging out with Alex to get to me- not you.
 COACH HARVEY: Alright, Ladies, bring it in!
-MIKE:
-ALEX-:
+MIKE: ALEX-
 ALEX: I have nothing to say to you.
 MIKE: I never meant to hurt you-
 ALEX: Then why'd you kiss my mom!?

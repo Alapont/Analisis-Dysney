@@ -75,9 +75,7 @@ WOODY: Oh, whoa, step back --
 WOODY: Hello?  Check?  Better?  Great. Everybody hear me?  Up on the shelf, can you hear me?  Great! Okay, first item today...oh, yeah. Has everyone picked a moving buddy?
 HAMM: Moving buddy?!  You can't be serious!
 REX: Well I didn't know we were supposed to have one already.
-MR. POTATO HEAD:
-(waving his arm out:
-its socket): Do we have to hold hands?
+MR. POTATO HEAD: (waving his arm out its socket) Do we have to hold hands?
 WOODY: Oh, yeah, you guys think this is a big joke.  We've only got one week left before the move.  I don't want any toys left behind.  A moving buddy -- if you don't have one, get one! Alright, next...uh...oh, yes. Tuesday night's "Plastic Corrosion Awareness" meeting was, I think, a big success and we want to thank Mr. Spell for putting that on for us. Thank you, Mr. Spell.
 MR. SPELL: You're welcome.
 WOODY: Ok, uh...oh yes.  One minor note here... Andy's birthday party's been moved to today. Next we have --
@@ -186,9 +184,7 @@ BUZZ: No read-out yet if the air is breathable... and there seems to be no sign 
 WOODY: Hello-o-o...
 BUZZ: HO-YAAAHH!!!
 WOODY: Aaaaaaah!  Whoa, hey, whoa, did I frighten you?  Didn't mean to. Sorry.  Howdy!  My name is Woody and this is Andy's room.  That's all I wanted to say, and also, there has been a bit of a mix-up. This is my spot, see, the bed here --
-BUZZ:
-(de-activating his:
-laser beam): Local law enforcement!  It's about time you got here.  I'm Buzz Lightyear, Space Ranger, Universe Protection Unit.  My ship has crash landed here by mistake.
+BUZZ: (de-activating his laser beam) Local law enforcement!  It's about time you got here.  I'm Buzz Lightyear, Space Ranger, Universe Protection Unit.  My ship has crash landed here by mistake.
 WOODY: Yes, it is a mistake, because, you see, the bed, here, is my spot.
 BUZZ: I need to repair my turbo boosters. Do you people still use fossil fuels, or have you discovered crystalic fusion?
 WOODY: Well, let's see, we've got double A's --
@@ -249,9 +245,7 @@ WOODY: Oh, shut up!  In a couple of days, everything will be just the way it was
 MATCH CUT TO::
 ANDY: Buzz Lightyear to the rescue.
 WOODY: Finally!
-WOODY:
-(looking back into:
-the toy box): Hey!  Who's got my hat?
+WOODY: (looking back into the toy box) Hey!  Who's got my hat?
 SHARK: Look, I'm Woody.  Howdy, howdy, howdy!
 WOODY: Ah-hah!  Ah-hah-hah! Give me that!
 BUZZ (O.S.): Say there, Lizard and Stretchy Dog. Let me show you something.  It looks as though I've been accepted into your culture.
@@ -291,8 +285,7 @@ WOODY: I can't tell.  Hey, where's Lenny?
 LENNY (O.S.): Right here, Woody.
 REX: Oh, no.  I can't bear to watch one of these again!
 WOODY: Oh, no...it's a Combat Carl.
-SID (O.S.):
-(plays under the next: Just stay where you are, Corporal! Don't move, Carl.  You'll blow up. I know you're tired!  I know your leg is cramping, but you can't move. Do you hear me?
+SID (O.S.): (plays under the next Just stay where you are, Corporal! Don't move, Carl.  You'll blow up. I know you're tired!  I know your leg is cramping, but you can't move. Do you hear me?
 BUZZ: What's going on?
 WOODY: Nothing that concerns you spacemen. Just us TOYS.
 BUZZ: I'd better take a look anyway.
@@ -329,9 +322,7 @@ WOODY: Will Andy pick me?
 WOODY: Don't count on it?!!  Doh-h-h-h!
 WOODY: Buzz!!  Oh, Buzz, Buzz Lightyear!! Buzz Lightyear, thank goodness! We've got trouble!
 BUZZ: Trouble?! Where?!
-WOODY:
-(pointing to the back:
-of the desk): Down there.  Just down there.  A helpless toy...it's...it's trapped, Buzz!
+WOODY: (pointing to the back of the desk) Down there.  Just down there.  A helpless toy...it's...it's trapped, Buzz!
 BUZZ: Then we've no time to lose!!
 BUZZ: I don't see anything!
 WOODY: Oh, he's there.  Just, just keep looking.
@@ -342,9 +333,7 @@ SLINKY: I don't see him in the driveway!  I think he bounced into Sid's yard.
 REX: Buzz!
 RC CAR: Whirrr!!  Whirrrr-whirrrr!!!
 REX: Hey everyone!  RC's trying to say something!
-REX:
-(leaning down close:
-to RC): What is it, boy?
+REX: (leaning down close to RC) What is it, boy?
 RC CAR: Whirrr!!! Whirrr!  Whirrrrrr!!
 MR. POTATO HEAD: He's sayin' that this was no accident.
 TOYS: Huh?
@@ -488,18 +477,14 @@ SID: Gotcha!
 SID: A Buzz Lightyear!  No way!
 SID: Yes!
 WOODY: Buzz, NO!
-SID:
-(slamming his fist:
-against the glass): Wha -- ?  Hey!!
+SID: (slamming his fist against the glass) Wha -- ?  Hey!!
 ALIEN #4: He has been chosen.
 WOODY: Hey!  What are you doing?
 ALIEN #5: He must go.
 WOODY: Stop it, you -- !  Stop it, you zealots!
 ALIENS: He must go!  Do not fight the claw! Do not anger the claw!  He has been chosen.
 SID: Alright!  Double prizes!
-SID:
-(looking at his two:
-new toys): Let's go home and...play.  Ha-ha-ha.
+SID: (looking at his two new toys) Let's go home and...play.  Ha-ha-ha.
 MATCH DISSOLVE TO::
 BUZZ: Sheriff!  I can see your dwelling from here!  You're almost home.
 ALIEN: Nirvana is coming!  The mystic portal awaits!
@@ -527,9 +512,7 @@ HANNAH: Sid!  Give her back!
 HANNAH (O.S.): Sid!  Sid!...
 SID: Oh, no.  We have a sick patient here, nurse.  Prepare the O.R., STAT!
 HANNAH (O.S.): Sid, give her back!  Give her back now!  I'm telling!
-SID: Patient is...
-(straining while:
-tightening vise): ...pre-e-epped.
+SID: Patient is... (straining while tightening vise) ...pre-e-epped.
 SID: No one's ever attempted a double bypass brain transplant before.
 SID: Now for the tricky part -- pliers!
 BUZZ: I don't believe that man's ever been to medical school.
@@ -545,9 +528,7 @@ WOODY:
 WOODY: B-B-B-Buzz!
 BUZZ: They're cannibals!
 BUZZ: May day!  May day!  Come in, Star Command!  Send reinforcements!... Star Command, do you copy?
-BUZZ:
-(aiming his arm out:
-the pack): I've set my laser from stun to kill.
+BUZZ: (aiming his arm out the pack) I've set my laser from stun to kill.
 WOODY: Oh, great, great.  Yeah, and if anyone attacks us we can blink 'em to death.
 REX: Hey, you guys!  I think I've found him.  Buzz!  Is that you?!
 REX: Whiskers!  Will you get out of here?!  You're interfering with the search and rescue.
@@ -655,9 +636,7 @@ HAMM: Heh-heh.
 MR. POTATO HEAD: Are you peeking?
 HAMM: Oh, quit your whining and pay up.
 HAMM: No, no, not the ear.  Gimme the nose.  C'mon!
-MR. POTATO HEAD:
-(pulling out his:
-nose; nasally): How 'bout three out of five?
+MR. POTATO HEAD: (pulling out his nose; nasally) How 'bout three out of five?
 WOODY (O.S.): Hey guys!  Guys!  Hey!
 MR. POTATO HEAD: Son of a building block, it's Woody!
 HAMM: He's in the psycho's bedroom!
@@ -833,9 +812,7 @@ BUZZ: Just go!  I'll catch up!
 BUZZ: Come on!
 BUZZ: You can do it, Woody.
 WOODY: Whew, I made it!
-WOODY:
-(kicking Scud with:
-other foot): Aaaaaahh!!  Get away, you stupid dog!  Down!  Down!
+WOODY: (kicking Scud with other foot) Aaaaaahh!!  Get away, you stupid dog!  Down!  Down!
 BUZZ: Hold on, Woody!
 WOODY: I can't do it!  Take care of Andy for me!
 BUZZ: NO-O-O-O-O-O-O!!

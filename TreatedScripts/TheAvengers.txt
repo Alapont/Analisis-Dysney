@@ -370,10 +370,8 @@ THOR:
 NATASHA:
 THOR:
 BANNER:
-TONY: (walks in with Coulson; to
-COULSON):
-TONY (CONT'D): No hard feelings, Point Break. You've got a mean swing. Also, it means the portal can open as wide, and stay open as long, as Loki wants. Uh, raise the mid-mast, ship the top sails. That man is playing GALAGA! Thought we wouldn't notice. But we did. (covering his eye, looks
-AROUND): How does Fury do this? AGENT MARIA HILL He turns.
+TONY:
+TONY (CONT'D): No hard feelings, Point Break. You've got a mean swing. Also, it means the portal can open as wide, and stay open as long, as Loki wants. Uh, raise the mid-mast, ship the top sails. That man is playing GALAGA! Thought we wouldn't notice. But we did. How does Fury do this? AGENT MARIA HILL He turns.
 TONY: Well, that sounds exhausting. The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source. A high energy density, something to kick start the cube. AGENT MARIA HILL When did you become an expert in thermonuclear astrophysics?
 TONY: Last night. The packet, Selvig's notes, the Extraction Theory papers. Am I the only one who did the reading?
 STEVE: Does Loki need any particular kind of power source?
@@ -458,8 +456,7 @@ THOR: What are you asking me to do?
 NICK FURY: I'm asking. What are you prepared to do?
 THOR: Loki is a prisoner.
 NICK FURY: Then why do I feel like he's the only person on this boat that wants to be here?
-LOKI: There's not many people that can sneak up on me. (turns to see NATASHA
-STANDING THERE):
+LOKI: There's not many people that can sneak up on me.
 NATASHA: But you figured I'd come.
 LOKI: After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate.
 NATASHA:
@@ -659,8 +656,7 @@ STEVE: Is this the first time you've lost a soldier?
 TONY:
 WE ARE NOT SOLDIERS! I am not marching:
 STEVE: Neither am I! He's got the same blood on his hands as Loki does. Right now we've got to put that aside and get this done. Now Loki needs a power source, if we can put together a list...
-TONY: (looking at the blood stained
-WALL): He made it personal.
+TONY: He made it personal.
 STEVE: That's not the point.
 TONY: That is the point. That's Loki's point. He hit us all right where we live. Why?
 STEVE: To tear us apart.
@@ -727,8 +723,7 @@ LOKI: Sentiment.
 CAPTAIN AMERICA: Those people need assistance down there.
 BLACK WIDOW: We got this. It's good. Go!
 CAPTAIN AMERICA: You think you can hold them off?
-HAWKEYE: Captain. (pulls a trigger on his bow; a narrow is mechanically
-CHOSEN): It would be my genuine pleasure.
+HAWKEYE: Captain. It would be my genuine pleasure.
 BLACK WIDOW: Just like BUDAPEST all over again!
 HAWKEYE: You and I remember Budapest verydifferently.
 YOUNG COP: We need to get out! They gotta bring the National Guard!
@@ -770,8 +765,7 @@ TONY: Nice call. What else you got? HAWKEYE (V.O.) Well, Thor's taking on a squa
 TONY: And he didn't invite me?
 BLACK WIDOW: Captain, none of this is gonna mean a damn thing if we don't close that portal.
 CAPTAIN AMERICA: Our biggest guns couldn't touch it.
-BLACK WIDOW: Well, maybe it's not about guns. (gestures the flying
-CHARIOTS):
+BLACK WIDOW: Well, maybe it's not about guns.
 CAPTAIN AMERICA: You wanna get up there, you're gonna need a ride.
 BLACK WIDOW: I got a ride. I could use a lift though.
 CAPTAIN AMERICA: Are you sure about this?
