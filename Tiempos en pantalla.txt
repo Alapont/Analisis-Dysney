@@ -1,0 +1,17 @@
+Rompe ralph
+	Supera el test Bechdel
+Tiempos:
+	Ralph:				59:05 
+	Vanellope:			31:16
+	Reparafelix:		18:21
+	Turbo:				10:50
+	Sergeant Calhoun:	10:52
+
+Frozen
+	Supera el test Bechdel
+Tiempos:
+	Elsa:				26:09
+	Olaf:				22:30
+	Cristof:			32:48
+	Anna:				63:00
+	Malo:				12:00
