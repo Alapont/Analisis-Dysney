@@ -28,7 +28,7 @@ Tiempos:
 	Ronan:				08:26
 
 Guardianes de la galaxia V2
-	upera test de Bechdel
+	Supera test de Bechdel
 Tiempos:
 	Star Lord			45:20
 	Yhondu:				21:30
@@ -39,3 +39,22 @@ Tiempos:
 	Gamora:				26:11
 	Groot:				18:33
 	Rocket:				23:05
+
+Hercules:
+	No supera test de Bechdel
+Tiempos:
+	Hercules:			35:56
+	Filoctetes:			15:37
+	Megara:				19:13
+	Hades:				12:41
+
+Brave:
+	Supera test de Bechdel
+Tiempos:
+	Fergus:				15:19
+	Bruja:				05:36
+	Principe:			03:03
+	Merida:				52:54
+	Elinor:				44:13
+	Hermanos:			08:00
+	Clanes:				14:25
