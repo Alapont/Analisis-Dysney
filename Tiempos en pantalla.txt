@@ -30,3 +30,12 @@ Tiempos:
 Guardianes de la galaxia V2
 	upera test de Bechdel
 Tiempos:
+	Star Lord			45:20
+	Yhondu:				21:30
+	Ego:				18:24
+	Drax:				19:05
+	Mantis:				12:01
+	Nebula:				12:35
+	Gamora:				26:11
+	Groot:				18:33
+	Rocket:				23:05
