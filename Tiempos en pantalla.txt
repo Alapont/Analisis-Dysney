@@ -1,0 +1,32 @@
+Rompe ralph
+	Supera el test Bechdel
+Tiempos:
+	Ralph:				59:05 
+	Vanellope:			31:16
+	Reparafelix:		18:21
+	Turbo:				10:50
+	Sergeant Calhoun:	10:52
+
+Frozen
+	Supera el test Bechdel
+Tiempos:
+	Elsa:				26:09
+	Olaf:				22:30
+	Cristof:			32:48
+	Anna:				63:00
+	Malo:				12:00
+
+Guardianes de la galaxia
+	Supera el test de Bechdel
+Tiempos:
+	Star Lord:			48:05
+	Gamora:				34:40
+	Groot:				23:48
+	Rocket:				25:50
+	Drax:				23:38
+	Yhondu:				07:47
+	Ronan:				08:26
+
+Guardianes de la galaxia V2
+	upera test de Bechdel
+Tiempos:
