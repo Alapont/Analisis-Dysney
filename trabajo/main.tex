@@ -1,0 +1,39 @@
+\documentclass[12pt, a4paper]{book}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\input{data/settings.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%      TeFloN V 1.2
+%
+%   Plantilla para TFGs
+%
+%   by Blai3e Pascal 
+%    (David Pacios)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\input{data/title.tex}
+%\input{data/derechos.tex} No es necesario pero se puede agregar, quedaría bien si se imprime en cuero por ejemplo porque estaría en la primera página útil, si no, queda raro.
+\input{data/abstract.tex}
+\input{data/index.tex}
+%%%% Chapters
+\input{Chapters/Chapter1}%Estado del Arte
+\input{Chapters/Chapter2}%Análisis del problema
+\input{Chapters/Chapter3}%Solución
+\input{Chapters/Chapter4}%Resultados
+\input{Chapters/Chapter5}%Conclusiones
+\input{Chapters/Chapter6}%Trabajos futuros
+\newpage
+
+\bibliographystyle{unsrt}
+\bibliography{biblio}
+
+
+%%%%%%%%%%%%%%%%%%%%%% COMENTAR ESTAS DOS LÍNEAS PARA QUITAR AUTORÍA
+\vspace*{\fill} %
+\doclicenseThis%
+%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
