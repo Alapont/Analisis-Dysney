@@ -5,13 +5,14 @@ import os
 import re
 
 moviesFolder = 'Scripts'
+IntermediateFolder = 'IntermediateScripts'
 treatedFolder = 'TreatedScripts'
 movies = ['17Again.txt', 'Coco.txt', 'Frankenweenie.txt', 'Frozen.txt', 'GuardiansOfTheGalaxyVol2.txt',
           'PiratesOfTheCaribbean.txt', 'PiratesOfTheCaribbeanDeadMan\'sChest.txt', 'TheAvengers.txt',
           'TheChroniclesOfNarniaTheLionTheWitchAndTheWardrobe.txt', 'Thor.txt', 'ThorRagnarock.txt',
           'ToyStory.txt', 'Tron.txt', 'TronLegacy.txt', 'Up.txt', 'Wall-E.txt', 'Zootropia.txt',
           'StarWarsEpisodeIIAttackOfTheClones.txt', 'StarWarsEpisodeIVANewHope.txt', 'StarWarsEpisodeVTheEmpireStrikesBack.txt',
-          'X-Men.txt']
+          'X-Men.txt', 'Logan.txt']
 
 frases = [re.compile(r'^[ ]{20,25}[\w\.\`\"\-\'\()]', re.IGNORECASE),
           re.compile(r'^[ ]{18}[\w\.\`\"\-\']', re.IGNORECASE),
@@ -34,7 +35,8 @@ frases = [re.compile(r'^[ ]{20,25}[\w\.\`\"\-\'\()]', re.IGNORECASE),
           re.compile(r'^[\t]{3}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
           re.compile(r'^[ ]{20,26}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
           re.compile(r'^[\t]{2,3}[\w\.\`\"\-\'\(\*\?\[\ ]', re.IGNORECASE),
-          re.compile(r'^[ ]{17,20}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE)]
+          re.compile(r'^[ ]{17,20}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
+          re.compile(r'^[ ]{17,22}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE)]
 
 comentarios = [re.compile(r'^[ ]{10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{6}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
@@ -56,6 +58,7 @@ comentarios = [re.compile(r'^[ ]{10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{0,4}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{10,16}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{0}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
+               re.compile(r'^[ ]{1,10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{1,10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE)]
 
 numPag = [re.compile(r'\d+.', re.IGNORECASE),
@@ -78,13 +81,14 @@ numPag = [re.compile(r'\d+.', re.IGNORECASE),
           re.compile(r'\d+.', re.IGNORECASE),
           re.compile(r'\d+.', re.IGNORECASE),
           re.compile(r'\d+.', re.IGNORECASE),
+          re.compile(r'\d+.', re.IGNORECASE),
           re.compile(r'\d+.', re.IGNORECASE)]
 
 parentesis = re.compile(r'\([\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\)', re.IGNORECASE)
 
 cabecera = [33, 31, 25, 13, 34, 8, 20, 80, 26, 36,
             34, 55, 16, 80, 17, 128, 32, 42, 60, 14,
-            62]
+            62, 63]
 
 for x in range(len(movies)):
     indice = 0
@@ -114,7 +118,7 @@ for x in range(len(movies)):
                             indice += 1
 
         # Guardamos los resultados en un fichero
-        with open(os.path.join(os.path.join(os.getcwd(), treatedFolder), movies[x]), 'w') as writer:
+        with open(os.path.join(os.path.join(os.getcwd(), IntermediateFolder), movies[x]), 'w') as writer:
             for y in range(indice):
                 writer.write(tratado[y]+'\n')
 

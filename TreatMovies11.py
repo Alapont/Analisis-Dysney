@@ -7,12 +7,11 @@ import re
 moviesFolder = 'Scripts'
 treatedFolder = 'TreatedScripts'
 IntermediateFolder = 'IntermediateScripts'
-movies = ['TheIncredibles.txt', 'TheNightmareBeforeChristmas.txt', 'FindingNemo.txt']
+movies = ['Aristocats.txt', 'Hercules.txt']
 
-personaje = re.compile(r'[A-Z.]{3,}')
-pagina = re.compile(r'[0-9]+')
+comentario = False
+cabecera = [47, 10]
 
-cabecera = [29, 12, 27]
 for x in range(len(movies)):
     indice = 0
     tratado = []
@@ -26,14 +25,23 @@ for x in range(len(movies)):
             # Tratamos el fichero
             for line in reader:
                 # Ignoramos las lineas en blanco y los saltos de escena
-                if line.strip() != '' and line.strip().startswith('______') == False and line.strip().endswith('______') == False and pagina.match(line.strip()) == None:
+                if line.strip() != '':
+                    if line.strip().startswith('{') == False and line.strip().endswith('}') == False:
+                        if line.strip().startswith('[') == True:
+                            comentario = True
+                        if line.strip().endswith(']') == True:
+                            comentario = False
 
-                    if personaje.match(line.strip()):
-                        tratado.append(line.strip()+': ')
-                        indice += 1
-                    else:
-                        tratado[indice-1] = tratado[indice-1] + \
-                            ' ' + line.strip()
+                        if comentario == False:
+                            if line.strip().startswith('[') == False and line.strip().endswith(']') == False:
+                                if line.startswith('(') == False and line.endswith(')') == False:
+
+                                    if line.find(':') != -1:
+                                        tratado.append(line.strip()+': ')
+                                        indice += 1
+                                    else:
+                                        tratado[indice-1] = tratado[indice-1] + \
+                                            ' ' + line.strip()
 
         # Guardamos los resultados en un fichero
         with open(os.path.join(os.path.join(os.getcwd(), IntermediateFolder), movies[x]), 'w') as writer:

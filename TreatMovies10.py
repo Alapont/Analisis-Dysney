@@ -4,25 +4,45 @@
 import os
 import re
 
-# charPattern = r'[\w]{1}[\w \']+:'
-# scenePattern = r'[(]{1}:'
-# blankLine = '\n'
-
-pattern1 = re.compile(r'\([\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\)|\{[\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\}|\{[\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\)|\[[\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\]|\-{2,}',re.IGNORECASE)
-pattern2 = re.compile(r'[ ]{2,}',re.IGNORECASE)
-
-# moviesFolder = 'Scripts'
+moviesFolder = 'Scripts'
 treatedFolder = 'TreatedScripts'
-# movies = ['BeautyAndTheBeast.txt', 'Aladdin.txt', 'HunchbackOfNotreDame.txt', 'LittleMermaid.txt',
-#           'MaryPoppins.txt', 'AGoofyMovie.txt', 'TheLionKing.txt', 'TheRescuersDownUnder.txt', 'TheSleepingBeauty.txt']
-# cabecera = [6, 64, 26, 3, 1, 10, 21, 34, 0]
+IntermediateFolder = 'IntermediateScripts'
+movies = ['HighSchoolMusical.txt','BeautyAndTheBeastTheEnchantedChristmas.txt','Cars.txt','FindingDory.txt']
 
-for filename in os.listdir(os.path.join(os.getcwd(), treatedFolder)):
-    with open(os.path.join(os.path.join(os.getcwd(), treatedFolder), filename), 'r') as reader:
-        movie=reader.read()
-        movie=pattern1.sub('',movie)
-        movie=pattern1.sub('',movie)
-        movie=pattern2.sub(' ',movie)
-    with open(os.path.join(os.path.join(os.getcwd(), treatedFolder), filename), 'w') as writer:
-        writer.write(movie)
-    movie=''
+escena = re.compile(r'[A-Z.\ ]{3,}')
+
+cabecera = [2,2,1,2]
+for x in range(len(movies)):
+    indice = 0
+    tratado = []
+
+    if os.path.exists(os.path.join(os.path.join(os.getcwd(), moviesFolder), movies[x])):
+        with open(os.path.join(os.path.join(os.getcwd(), moviesFolder), movies[x]), 'r') as reader:
+            # Eliminamos las lineas introductorias
+            for z in range(cabecera[x]):
+                reader.readline()
+
+            # Tratamos el fichero
+            for line in reader:
+                # Ignoramos las lineas en blanco y los saltos de escena
+                if line.strip() != '':
+                    if escena.match(line.strip()) == None:
+                        if line.strip().startswith('{') == False and line.strip().endswith('}') == False:
+                            if line.strip().startswith('[') == False and line.strip().endswith(']') == False:
+                                if line.strip().startswith('(') == False and line.strip().endswith(')') == False:
+
+                                    if line.find(':') != -1:
+                                        tratado.append(line.strip())
+                                        indice += 1
+                                    else:
+                                        tratado[indice-1] = tratado[indice-1] + \
+                                            ' ' + line.strip()
+
+        # Guardamos los resultados en un fichero
+        with open(os.path.join(os.path.join(os.getcwd(), IntermediateFolder), movies[x]), 'w') as writer:
+            for y in range(indice):
+                writer.write(tratado[y]+'\n')
+
+        # Movemos el fichero tratado
+        os.rename(os.path.join(os.path.join(os.getcwd(), moviesFolder), movies[x]),
+                  os.path.join(os.path.join(os.getcwd(), treatedFolder), movies[x]))
