@@ -37,5 +37,5 @@ for x in range(len(movies)):
             for y in range(indice):
                 writer.write(tratado[y]+'\n')
 
-        # os.rename(os.path.join(os.path.join(os.getcwd(), moviesFolder), movies[x]),
-        #           os.path.join(os.path.join(os.getcwd(), treatedFolder), movies[x]))
+        os.rename(os.path.join(os.path.join(os.getcwd(), moviesFolder), movies[x]),
+                  os.path.join(os.path.join(os.getcwd(), treatedFolder), movies[x]))
