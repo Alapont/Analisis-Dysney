@@ -89,7 +89,7 @@ VAMPIRES:  It's scary.
 MAYOR:  Stand aside.
 WEREWOLF:  grrrr
 MAYOR:  Coming through.  We've got find Jack.  There's only 365 days left till next Halloween.
-WEREWOLF:  364!
+WEREWOLF: 
 MAYOR:  Is there anywhere we've forgotten to check? Clown I looked in every mausoleum.
 WITCHES:  We opened the sarcophagi. Hyde I tromped through the pumpkin patch.
 VAMPIRE:  I peeked behind the Cyclops's eye.  I did!  But he wasn't there.

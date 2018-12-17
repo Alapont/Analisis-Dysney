@@ -250,7 +250,7 @@ LUCIUS:  He starts monologuing! He starts like this prepared speech about how fe
 BOB:  Yammering.
 LUCIUS:  Yammering! I mean, the guy has me on a platter, and he won't shut up.
 POLICE RADIO:  Municiberg, we have a 23-56...
-BOB:  23-56, what is that? Robbery?
+BOB: 
 LUCIUS:  This is just sad.
 BOB:  Yeah, robbery. Want to catch a robber?
 LUCIUS:  No. Tell you the truth, I'd rather go bowling. Look, what if we actually did what our wives think we're doing? Just to shake things up.
@@ -499,7 +499,7 @@ COMPUTER:  Please fasten your seat belt. We're beginning our descent.
 MIRAGE:  Hello, Mr. lncredible. Nice suit.
 BOB (MR. INCREDIBLE):  Thanks. Nice to be back, Mirage.
 MIRAGE:  You'll be briefed on your assignment in the conference room at two. D Wing, room A-113.
-BOB (MR. INCREDIBLE):  2:00. Got it.
+BOB (MR. INCREDIBLE): 
 MIRAGE:  See you there.
 HELEN:  [gasps] Edna.
 HELEN:  I'd like to speak to Edna, please. E This is Edna.

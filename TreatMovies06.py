@@ -24,13 +24,13 @@ for x in range(len(movies)):
             for line in reader:
                 # Ignoramos las lineas en blanco y los saltos de escena
                 if line.strip() != '':
-
-                    if line.find(':')!=-1:
-                        tratado.append(line.strip()+': ')
-                        indice += 1
-                    else:
-                        tratado[indice-1] = tratado[indice-1] + \
-                            ' ' + line.strip()
+                    if line.strip().startswith('(') == False and line.strip().endswith(')') == False:
+                        if line.find(':')!=-1:
+                            tratado.append(line.strip()+': ')
+                            indice += 1
+                        else:
+                            tratado[indice-1] = tratado[indice-1] + \
+                                ' ' + line.strip()
 
         # Guardamos los resultados en un fichero
         with open(os.path.join(os.path.join(os.getcwd(), IntermediateFolder), movies[x]), 'w') as writer:

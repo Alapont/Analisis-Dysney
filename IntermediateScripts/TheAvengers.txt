@@ -370,8 +370,10 @@ THOR:
 NATASHA:
 THOR:
 BANNER:
-TONY:
-TONY (CONT'D): No hard feelings, Point Break. You've got a mean swing. Also, it means the portal can open as wide, and stay open as long, as Loki wants. Uh, raise the mid-mast, ship the top sails. That man is playing GALAGA! Thought we wouldn't notice. But we did. How does Fury do this? AGENT MARIA HILL He turns.
+TONY: (walks in with Coulson; to
+COULSON):
+TONY (CONT'D): No hard feelings, Point Break. You've got a mean swing. Also, it means the portal can open as wide, and stay open as long, as Loki wants. Uh, raise the mid-mast, ship the top sails. That man is playing GALAGA! Thought we wouldn't notice. But we did. (covering his eye, looks
+AROUND): How does Fury do this? AGENT MARIA HILL He turns.
 TONY: Well, that sounds exhausting. The rest of the raw materials, Agent Barton can get his hands on pretty easily. Only major component he still needs is a power source. A high energy density, something to kick start the cube. AGENT MARIA HILL When did you become an expert in thermonuclear astrophysics?
 TONY: Last night. The packet, Selvig's notes, the Extraction Theory papers. Am I the only one who did the reading?
 STEVE: Does Loki need any particular kind of power source?
@@ -456,7 +458,8 @@ THOR: What are you asking me to do?
 NICK FURY: I'm asking. What are you prepared to do?
 THOR: Loki is a prisoner.
 NICK FURY: Then why do I feel like he's the only person on this boat that wants to be here?
-LOKI: There's not many people that can sneak up on me.
+LOKI: There's not many people that can sneak up on me. (turns to see NATASHA
+STANDING THERE):
 NATASHA: But you figured I'd come.
 LOKI: After. After whatever tortures Fury can concoct, you would appear as a friend, as a balm. And I would cooperate.
 NATASHA:
@@ -473,7 +476,7 @@ LOKI:
 NATASHA: Regimes fall every day. I tend not to weep over that, I'm Russian... or was.
 LOKI: What is it you want?
 NATASHA: It's really not that complicated. I've got red in my ledger, I'd like to wipe it out.
-LOKI: Can you? Can you wipe out that much red? DRAKOV'S daughter? S√ÉO PAULO? THE HOSPITAL FIRE? Barton told me everything. Your ledger is dripping, it's gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child at prayer... PATHETIC!
+LOKI: Can you? Can you wipe out that much red? DRAKOV'S daughter? S√O PAULO? THE HOSPITAL FIRE? Barton told me everything. Your ledger is dripping, it's gushing red, and you think saving a man no more virtuous than yourself will change anything? This is the basest sentimentality. This is a child at prayer... PATHETIC!
 INTERCUTS: LOKI (V.O.) You lie and kill in the service of liars and killers. LOKI (V.O.) You pretend to be separate, to have your own code, something that makes up for the horrors. But they are a part of you, and they will never go away!
 LOKI: I won't touch Barton. Not until I make him kill you! Slowly. Intimately. In every way he knows you fear! And when he'll wake just long enough to see his good work, and when he screams, I'll split his skull! This is my bargain, you mewling quim!
 NATASHA: You're a monster.
@@ -622,20 +625,20 @@ NATASHA: Clint, you're gonna be alright.
 CLINT BARTON: You know that? Is that what you know? I got...I gotta go in though. I gotta flush him out.
 NATASHA: We don't have that long, it's gonna take time.
 CLINT BARTON: I don't understand. Have you ever had someone take your brain and play? Pull you out and send something else in? Do you know what it's like to be unmade?
-NATASHA: You know that I do.
-CLINT BARTON: Why am I back? How did you get him out?
-NATASHA: Cognitive recalibration. I hit you really hard in the head.
-CLINT BARTON: Thanks. (Natasha unfastens the
-RESTRAINTS): Tasha, how many agents?
-NATASHA: Don't. Don't do that to yourself, Clint. This is Loki. This is monsters and magic and nothing we were ever trained for.
-CLINT BARTON: Loki, he got away?
-NATASHA: Yeah. I don't suppose you know where?
-CLINT BARTON: I didn't need to know. I didn't ask. He's gonna make his play soon though. Today.
-NATASHA: We gotta stop him.
-CLINT BARTON: Yeah? Who's we?
-NATASHA: I don't know. Whoever's left.
-CLINT BARTON: Well, if I put an arrow in Loki's eyesocket, I'd sleep better I suppose.
-NATASHA: Now you sound like you. Natasha sits next to her partner and friend.
+NATASHA:
+CLINT BARTON:
+NATASHA:
+CLINT BARTON: (Natasha unfastens the
+RESTRAINTS):
+NATASHA:
+CLINT BARTON:
+NATASHA:
+CLINT BARTON:
+NATASHA:
+CLINT BARTON:
+NATASHA:
+CLINT BARTON:
+NATASHA:
 CLINT BARTON: But you don't. You're a spy, not a soldier. Now you want to wade into a war. Why? What did Loki do to you?
 NATASHA: He didn't, I just...
 CLINT BARTON: Natasha.
@@ -649,18 +652,16 @@ TONY: For taking on Loki alone.
 STEVE: He was doing his job.
 TONY: He was out of his league. He should have waited. He should have...
 STEVE:
-Sometimes there isn't a way out, Tony.:
 TONY:
-Right. How did that work for him?:
-STEVE: Is this the first time you've lost a soldier?
+STEVE:
 TONY:
-WE ARE NOT SOLDIERS! I am not marching:
-STEVE: Neither am I! He's got the same blood on his hands as Loki does. Right now we've got to put that aside and get this done. Now Loki needs a power source, if we can put together a list...
-TONY: He made it personal.
-STEVE: That's not the point.
-TONY: That is the point. That's Loki's point. He hit us all right where we live. Why?
-STEVE: To tear us apart.
-TONY: He had to conquer his greed, but he knows he has to take us out to win, right? That's what he wants. He wants to beat us and he wants to be seen doing it. He wants an audience.
+STEVE:
+TONY: (looking at the blood stained
+WALL):
+STEVE:
+TONY:
+STEVE:
+TONY:
 STEVE: Right, I caught his act at Stuttengard.
 TONY: Yeah. That's just a preview, this is opening night. Loki's a full-tilt diva. He wants flowers, he wants parades, he wants a monument built in the skies with his name plastered... Sonofabitch!
 STEVE: Time to go.
@@ -723,7 +724,8 @@ LOKI: Sentiment.
 CAPTAIN AMERICA: Those people need assistance down there.
 BLACK WIDOW: We got this. It's good. Go!
 CAPTAIN AMERICA: You think you can hold them off?
-HAWKEYE: Captain. It would be my genuine pleasure.
+HAWKEYE: Captain. (pulls a trigger on his bow; a narrow is mechanically
+CHOSEN): It would be my genuine pleasure.
 BLACK WIDOW: Just like BUDAPEST all over again!
 HAWKEYE: You and I remember Budapest verydifferently.
 YOUNG COP: We need to get out! They gotta bring the National Guard!
@@ -765,7 +767,8 @@ TONY: Nice call. What else you got? HAWKEYE (V.O.) Well, Thor's taking on a squa
 TONY: And he didn't invite me?
 BLACK WIDOW: Captain, none of this is gonna mean a damn thing if we don't close that portal.
 CAPTAIN AMERICA: Our biggest guns couldn't touch it.
-BLACK WIDOW: Well, maybe it's not about guns.
+BLACK WIDOW: Well, maybe it's not about guns. (gestures the flying
+CHARIOTS):
 CAPTAIN AMERICA: You wanna get up there, you're gonna need a ride.
 BLACK WIDOW: I got a ride. I could use a lift though.
 CAPTAIN AMERICA: Are you sure about this?
