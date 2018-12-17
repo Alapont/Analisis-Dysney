@@ -58,3 +58,35 @@ Tiempos:
 	Elinor:				44:13
 	Hermanos:			08:00
 	Clanes:				14:25
+
+Del Revés:
+	Supera el test de Bechdel
+Tiempos:
+	Alegría:			43:30
+	Tristeza:			28:04
+	Asco:				11:15
+	Ira:				11:32
+	Miedo:				11:51
+	Riley:				18:29
+
+La Sirenita:
+	Supera el test de Bechdel
+Tiempos:
+	Ariel:				28:37
+	Sebastián:			15:36
+	Flounder:			08:42
+	Úrsula:				09:45
+	Eric:				12:24
+	Tritón:				06:08
+
+La Cenicienta:
+	Supera el test de Bechdel
+Tiempos:
+	Cenicienta:			17:30
+	Jaq:				11:05
+	Gus:				11:11
+	Lady Tremaine:			05:24
+	Príncipe Encantador:		03:15
+	Hada madrina:			02:31
+	Anastasia:			03:30
+	Drizella:			03:17
