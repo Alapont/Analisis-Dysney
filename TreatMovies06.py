@@ -26,7 +26,7 @@ for x in range(len(movies)):
                 if line.strip() != '':
                     if line.strip().startswith('(') == False and line.strip().endswith(')') == False:
                         if line.find(':')!=-1:
-                            tratado.append(line.strip()+': ')
+                            tratado.append(line.strip())
                             indice += 1
                         else:
                             tratado[indice-1] = tratado[indice-1] + \

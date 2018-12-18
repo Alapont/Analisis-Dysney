@@ -1,39 +1,43 @@
-BAKER (V.O.): Once upon a time, in a far off kingdom, there lay a small village at the edge of the woods...
-CINDERELLA (O.S.): I WISH...
-BAKER (V.O.): And in this village...
-CINDERELLA (O.S.): MORE THAN ANYTHING...
-BAKER (V.O.): ... lived a young maiden...
-CINDERELLA: MORE THAN LIFE... MORE THAN JEWELS...
-BAKER (V.O.): ... a care-free young lad...
-JACK: I WISH... MORE THAN LIFE...
+BAKER (V.O.): Once upon a time, in a far off kingdom, there lay a small village at the edge of the woods
+CINDERELLA (O.S.): I WISH
+BAKER (V.O.): And in this village
+CINDERELLA (O.S.): MORE THAN ANYTHING
+BAKER (V.O.):
+lived a young maiden:
+CINDERELLA: MORE THAN LIFE MORE THAN JEWELS
+BAKER (V.O.):
+a care-free young lad:
+JACK: I WISH MORE THAN LIFE
 2:
-BAKER (V.O.): ... and a childless baker... BAKER/BAKER'S WIFE I WISH...
-BAKER (V.O.): ... with his Wife-- "
-BAKER: MORE THAN ANYTHING...
-WIFE: MORE THAN THE MOON... BAKER/BAKER'S WIFE I WISH...
+BAKER (V.O.):
+and a childless baker: BAKER/BAKER'S WIFE I WISH
+BAKER (V.O.):
+with his Wife-- ":
+BAKER: MORE THAN ANYTHING
+WIFE: MORE THAN THE MOON BAKER/BAKER'S WIFE I WISH
 CINDERELLA: THE KING IS GIVING A FESTIVAL.
-BAKER/WIFE: MORE THAN LIFE...
-JACK: I WISH...
+BAKER/WIFE: MORE THAN LIFE
+JACK: I WISH
 CINDERELLA: I WISH TO GO TO THE FESTIVAL--
 3:
-BAKER/WIFE: MORE THAN RICHES...
-CINDERELLA: -- AND THE BALL...
+BAKER/WIFE: MORE THAN RICHES
+CINDERELLA: -- AND THE BALL
 JACK: I WISH MY COW WOULD GIVE US SOME MILK.
-WIFE/CINDERELLA: MORE THAN ANYTHING...
+WIFE/CINDERELLA: MORE THAN ANYTHING
 BAKER: I WISH WE HAD A CHILD.
 JACK: PLEASE, PAL.
 WIFE: I WANT A CHILD.
-JACK: SQUEEZE, PAL...
+JACK: SQUEEZE, PAL
 CINDERELLA: I WISH TO GO TO THE FESTIVAL. JACK BAKER/WIFE
-ALL: I WISH...
+ALL: I WISH
 4:
 STEPMOTHER: YOU WISH TO GO TO THE FESTIVAL? BAKER (V.O) The poor girl's parents had died--
 STEPMOTHER: YOU, CINDERELLA, THE FESTIVAL?/ YOU WISH TO GO TO THE FESTIVAL?
 FLORINDA LUCINDA:
 STEPMOTHER/STEPSISTERS: THE FESTIVAL?!/ THE KING'S FESTIVAL!??
-BAKER (V.O.): And now she lived with her stepmother...
+BAKER (V.O.): And now she lived with her stepmother
 STEPMOTHER: THE FESTIVAL?!!!
-BAKER (V.O.): ...who had two daughters of her own.
+BAKER (V.O.): who had two daughters of her own.
 FLORINDA: LOOK AT YOUR NAILS!
 LUCINDA: LOOK AT YOUR DRESS!
 STEPMOTHER: PEOPLE WOULD LAUGH AT YOU!
@@ -43,22 +47,22 @@ NEVERTHELESS--:
 BAKER (V.O.): All three were beautiful of face, but vile and black of heart.
 BAKER (V.O.): The young lad had no father, and his
 MOTHER--:
-JACK'S MOTHER: I WISH...
+JACK'S MOTHER: I WISH
 BAKER (V.O.): Well, she was at her wit's end--
 JACK'S MOTHER: I WISH MY SON WERE NOT A FOOL./ I WISH MY HOUSE WAS NOT A MESS./ I WISH THE COW WAS FULL OF MILK./ I WISH THE WALLS WERE FULL OF GOLD--/ I WISH A LOT OF THINGS.
 JACK'S MOTHER: What in heaven's name are you doing with the cow inside the house?
 JACK: I thought if he was nice and warm he might produce some milk.
 JACK'S MOTHER: It's a she! How many times must I tell you? Only shes can give milk!
-BAKER (V.O.): And then there was a hungry little girl who always wore a red cape...
+BAKER (V.O.): And then there was a hungry little girl who always wore a red cape
 6:
 BAKER: Hey!
-LRRH: I WISH./ IT'S NOT FOR ME,/ IT'S FOR MY GRANNY IN THE WOODS./ A LOAF OF BREAD, PLEASE,/ TO BRING MY POOR OLD HUNGRY/ GRANNY IN THE WOODS.../ JUST A LOAF OF BREAD, PLEASE.
-STEPMOTHER: Cinderella, if you can pick up these lentils, and finish your chores in time, then you may go to the ball with us. Come along, ladies...
+LRRH: I WISH./ IT'S NOT FOR ME,/ IT'S FOR MY GRANNY IN THE WOODS./ A LOAF OF BREAD, PLEASE,/ TO BRING MY POOR OLD HUNGRY/ GRANNY IN THE WOODS/ JUST A LOAF OF BREAD, PLEASE.
+STEPMOTHER: Cinderella, if you can pick up these lentils, and finish your chores in time, then you may go to the ball with us. Come along, ladies
 STEPSISTERS: Yes, Mother.
-CINDERELLA: COME LITTLE BIRDS,/ DOWN FROM THE EAVES/ AND THE LEAVES,/ OVER FIELDS,/ OUT OF CASTLES AND PONDS.../ AHHHHH...
-JACK: NO, SQUEEZE, PAL ...
+CINDERELLA: COME LITTLE BIRDS,/ DOWN FROM THE EAVES/ AND THE LEAVES,/ OVER FIELDS,/ OUT OF CASTLES AND PONDS/ AHHHHH
+JACK: NO, SQUEEZE, PAL
 7:
-CINDERELLA: QUICK, LITTLE BIRDS,/ FLICK THROUGH THE ASHES./ PICK AND PECK, BUT SWIFTLY,/ SIFT THROUGH THE ASHES./ INTO THE POT...
+CINDERELLA: QUICK, LITTLE BIRDS,/ FLICK THROUGH THE ASHES./ PICK AND PECK, BUT SWIFTLY,/ SIFT THROUGH THE ASHES./ INTO THE POT
 JACK: Bullseye!
 JACK'S MOTHER: What are you doing? Stop your pretending! JACK'S MOTHER (CONT'D) Now listen to me well, son. Milky-White must be taken to market.
 JACK: Mother, no-- he's the best cow in the
@@ -70,8 +74,8 @@ JACK:
 BUT--:
 8:
 JACK'S MOTHER: WE'VE NO TIME TO SIT AND DITHER/ WHILE HER WITHERS WITHER WITH HER--/ AND NO ONE KEEPS A COW FOR A FRIEND! Sometimes I wonder what's in that head of yours.
-LRRH: INTO THE WOODS, IT'S TIME TO GO,/ I HATE TO LEAVE, I HAVE TO, THOUGH./ INTO THE WOODS-- IT'S TIME, AND SO/ I MUST BEGIN MY JOURNEY. INTO THE WOODS AND THROUGH THE TREES/ TO WHERE I AM EXPECTED, MA'AM,/ INTO THE WOODS TO GRANDMOTHER'S HOUSE...
-LRRH (CONT'D): INTO THE WOODS TO GRANDMOTHER'S HOUSE...
+LRRH: INTO THE WOODS, IT'S TIME TO GO,/ I HATE TO LEAVE, I HAVE TO, THOUGH./ INTO THE WOODS-- IT'S TIME, AND SO/ I MUST BEGIN MY JOURNEY. INTO THE WOODS AND THROUGH THE TREES/ TO WHERE I AM EXPECTED, MA'AM,/ INTO THE WOODS TO GRANDMOTHER'S HOUSE
+LRRH (CONT'D): INTO THE WOODS TO GRANDMOTHER'S HOUSE
 WIFE: You're certain of your way?
 LRRH: THE WAY IS CLEAR,/ THE LIGHT IS GOOD,/ I HAVE NO FEAR,/ NOR NO ONE SHOULD./ THE WOODS ARE JUST TREES,/ THE TREES ARE JUST WOOD./ I SORT OF HATE TO ASK IT,/ BUT DO YOU HAVE A BASKET?
 BAKER: I don't suppose you're planning on buying any of these?
@@ -106,7 +110,7 @@ WIFE: We have no bread.
 WITCH: I don't want your bread.
 BAKER: Then what is it you wish?
 WITCH: It's not what I wish. It's what you wish.
-WITCH (CONT'D): Nothing cooking in that belly now, is there? And there will never be...
+WITCH (CONT'D): Nothing cooking in that belly now, is there? And there will never be
 WITCH (CONT'D): Unless you do exactly as I say. In three days' time, a Blue Moon will appear. Only then can the curse be undone.
 WIFE: What curse?
 WITCH: The one I placed on this house!
@@ -115,7 +119,7 @@ WITCH: In the past, when you were no more than a babe, your father brought his y
 WITCH'S POV:
 WITCH (V.O.): HE WAS ROBBING ME,/ RAPING ME,/ ROOTING THROUGH MY RUTABAGA,/ RAIDING
 MY ARUGULA:
-WITCH: AND/ RIPPING UP THE RAMPION/ (MY CHAMPION!/ MY FAVORITE!) I SHOULD HAVE LAID A SPELL ON HIM RIGHT THERE--/ I COULD HAVE TURNED HIM INTO STONE/ OR A DOG OR A CHAIR.../ BUT I LET HIM HAVE THE RAMPION/ I'D LOTS TO SPARE.
+WITCH: AND/ RIPPING UP THE RAMPION/ (MY CHAMPION!/ MY FAVORITE!) I SHOULD HAVE LAID A SPELL ON HIM RIGHT THERE--/ I COULD HAVE TURNED HIM INTO STONE/ OR A DOG OR A CHAIR/ BUT I LET HIM HAVE THE RAMPION/ I'D LOTS TO SPARE.
 WITCH (V.O.): IN RETURN, HOWEVER,/ I SAID, "FAIR IS FAIR:/ YOU CAN LET ME HAVE THE BABY/ THAT YOUR WIFE WILL BEAR,
 WITCH: AND WE'LL CALL IT SQUARE."
 BAKER: I had a brother?
@@ -130,10 +134,10 @@ WITCH (V.O.): I LET HIM GO,/ I DIDN'T KNOW/ HE'D STOLEN MY BEANS!
 WITCH (V.O.): I WAS WATCHING HIM CRAWL/ BACK OVER THE WALL,/ WHEN BANG! CRASH!/ THE LIGHTNING FLASH!/
 WITCH: WELL, THAT'S ANOTHER STORY--/ NEVER MIND./ ANYWAY, AT LAST/ THE BIG DAY CAME/ AND I MADE MY CLAIM./ "OH, DON'T TAKE AWAY THE BABY,"/ THEY SHRIEKED AND SCREECHED,/
 WITCH (V.O.): BUT I DID, AND I HID HER/ WHERE SHE'LL NEVER BE REACHED.
-WITCH: AND YOUR FATHER CRIED/ AND YOUR MOTHER DIED,/ WHEN FOR EXTRA MEASURE--/ I ADMIT IT WAS A PLEASURE--/ I SAID, "SORRY, I'M STILL NOT MOLLIFIED."/ AND I LAID A LITTLE SPELL ON THEM--/ YOU TOO, SON--/ THAT YOUR FAMILY TREE/ WOULD ALWAYS BE/ A BARREN ONE...
+WITCH: AND YOUR FATHER CRIED/ AND YOUR MOTHER DIED,/ WHEN FOR EXTRA MEASURE--/ I ADMIT IT WAS A PLEASURE--/ I SAID, "SORRY, I'M STILL NOT MOLLIFIED."/ AND I LAID A LITTLE SPELL ON THEM--/ YOU TOO, SON--/ THAT YOUR FAMILY TREE/ WOULD ALWAYS BE/ A BARREN ONE
 BAKER: How could you do that to me?
 WITCH: And when your mother died, your father deserted you. Your father was no father -- so why should you be?
-BAKER: I'm so sorry...
+BAKER: I'm so sorry
 WITCH: NOW THERE'S NO MORE FUSS/ AND THERE'S NO MORE SCENES/ AND MY GARDEN THRIVES -
 / YOU SHOULD SEE MY NECTARINES!/ BUT: I'M TELLING YOU THE SAME/ I TELL KINGS
 AND QUEENS::
@@ -155,8 +159,8 @@ CINDERELLA: NOW MAY I GO TO THE FESTIVAL?
 STEPMOTHER: The Festival! DARLING, THOSE NAILS!/ DARLING, THOSE CLOTHES!/ LENTILS ARE ONE THING, BUT/ DARLING, WITH THOSE,/ YOU'D MAKE US THE FOOLS OF THE FESTIVAL/ AND MORTIFY THE PRINCE!
 CINDERELLA: The festival lasts three nights. Surely you can let me be there for one of them.
 STEPMOTHER: The King is trying to find his son a wife -- not a scullery maid! We must be gone!
-CINDERELLA: I WISH...
-WIFE: Here. Take this...
+CINDERELLA: I WISH
+WIFE: Here. Take this
 BAKER: I'm not wearing that.
 WIFE: Why?
 BAKER: It was my father's. You heard what she said. This is all his fault.
@@ -169,10 +173,10 @@ BAKER: No. I can do this on my own.
 BAKER WIFE: ON OUR HOUSE.
 BAKER (CONT'D): Now tell me. What am I to return with?
 WIFE: You don't remember?! THE COW AS WHITE AS MILK,/ THE CAPE AS RED AS BLOOD,/ THE HAIR AS YELLOW AS CORN,/ THE SLIPPER AS PURE AS GOLD.
-BAKER: THE COW AS WHITE AS MILK,/ THE CAPE AS RED AS BLOOD,/ THE HAIR AS YELLOW AS CORN,/ THE SLIPPER AS PURE AS GOLD...
+BAKER: THE COW AS WHITE AS MILK,/ THE CAPE AS RED AS BLOOD,/ THE HAIR AS YELLOW AS CORN,/ THE SLIPPER AS PURE AS GOLD
 CINDERELLA: I STILL WISH TO GO TO THE FESTIVAL,/ BUT HOW AM I EVER TO GET TO THE FESTIVAL?
-BAKER: THE COW AS WHITE AS MILK,/ THE CAPE AS RED AS BLOOD,/ THE HAIR AS YELLOW AS CORN...
-WIFE CINDERELLA: WILLOW TREE,/ AND TELL HER I JUST WANT TO GO TO THE KING'S FESTIVAL... BAKER (CONT'D) WIFE
+BAKER: THE COW AS WHITE AS MILK,/ THE CAPE AS RED AS BLOOD,/ THE HAIR AS YELLOW AS CORN
+WIFE CINDERELLA: WILLOW TREE,/ AND TELL HER I JUST WANT TO GO TO THE KING'S FESTIVAL BAKER (CONT'D) WIFE
 CINDERELLA/BAKER: INTO THE WOODS, IT'S TIME TO GO,/ IT MAY BE ALL IN VAIN, YOU (I) KNOW./ INTO THE WOODS-- BUT EVEN SO,/ I HAVE TO TAKE THE JOURNEY.
 WIFE: INTO THE WOODS/ THE PATH IS STRAIGHT,/ YOU KNOW IT WELL,
 BAKER: BUT WHO CAN TELL--?
@@ -182,7 +186,7 @@ CINDERELLA: INTO THE WOODS TO VISIT MOTHER--
 JACK'S MOTHER: INTO THE WOODS TO SELL THE COW--
 JACK: TO GET THE MONEY!--
 CINDERELLA: TO GO THE FESTIVAL--
-LRRH: INTO THE WOODS TO GRANDMOTHER'S HOUSE.../ INTO THE WOODS TO GRANDMOTHER'S HOUSE... CINDERELLA/BAKER/LRRH THE WAY IS CLEAR,/ THE LIGHT IS GOOD./ I HAVE NO FEAR,/ NOR NO ONE SHOULD./ THE WOODS ARE JUST TREES,/ THE TREES ARE JUST WOOD./ NO NEED TO BE AFRAID
+LRRH: INTO THE WOODS TO GRANDMOTHER'S HOUSE/ INTO THE WOODS TO GRANDMOTHER'S HOUSE CINDERELLA/BAKER/LRRH THE WAY IS CLEAR,/ THE LIGHT IS GOOD./ I HAVE NO FEAR,/ NOR NO ONE SHOULD./ THE WOODS ARE JUST TREES,/ THE TREES ARE JUST WOOD./ NO NEED TO BE AFRAID
 THERE--:
 BAKER: THERE'S SOMETHING IN THE GLADE THERE.
 ALL: INTO THE WOODS WITHOUT DELAY,/ BUT CAREFUL NOT TO LOSE THE WAY./ INTO THE WOODS, WHO KNOWS WHAT MAY/ BE LURKING ON THE JOURNEY?
@@ -193,7 +197,7 @@ BAKER: TO MAKE THE POTION--
 ALL: TO SEE--/ TO SELL--/ TO GET--/ TO BRING/ TO MAKE--/ TO LIFT--/ TO GO TO THE FESTIVAL--!
 ALL (V.O.): INTO THE WOODS!/ INTO THE WOODS!/ INTO THE WOODS,/ THEN OUT OF THE WOODS,/ AND HOME BEFORE DARK!
 BAKER (V.O.): Deep within the woods, Cinderella had planted a branch at the grave of her mother. And she visited there so often, and wept so much, that her tears watered it until it had become a magnificent tree.
-CINDERELLA: I WISH...
+CINDERELLA: I WISH
 C'S MOTHER: What is it that you wish, child? C'S MOTHER (CONT'D) DO YOU KNOW WHAT YOU WISH?/ ARE YOU CERTAIN WHAT YOU WISH/ IS WHAT YOU WANT?/ IF YOU KNOW WHAT YOU WANT,/ THEN MAKE A WISH--/ ASK THE TREE,/ AND YOU SHALL HAVE YOUR WISH.
 ANOTHER ANGLE:
 CINDERELLA: Thank you, Mother.
@@ -207,20 +211,20 @@ WOLF: And what might be in your basket?
 LRRH: It's bread for Grandmother so she'll have something good to make her strong.
 WOLF: And where might your Grandmother live?
 LRRH: A quarter of a league further in the woods; her house stands inside a great oak tree.
-WOLF: MMMMH.../ UNHH.../ LOOK AT THAT FLESH,/ PINK AND PLUMP./ HELLO, LITTLE GIRL.../ TENDER AND FRESH,/ NOT ONE LUMP./ HELLO, LITTLE GIRL.../ THIS ONE'S ESPECIALLY LUSH,/ DELICIOUS...
+WOLF: MMMMH/ UNHH/ LOOK AT THAT FLESH,/ PINK AND PLUMP./ HELLO, LITTLE GIRL/ TENDER AND FRESH,/ NOT ONE LUMP./ HELLO, LITTLE GIRL/ THIS ONE'S ESPECIALLY LUSH,/ DELICIOUS
 WOLF (CONT'D): HELLO, LITTLE GIRL,/ WHAT'S YOUR RUSH?/ YOU'RE MISSING ALL THE FLOWERS./ THE SUN WON'T SET FOR HOURS,/ TAKE YOUR TIME.
 LRRH: MOTHER SAID,/ "STRAIGHT AHEAD,"/ NOT TO DELAY/ OR BE MISLED.
 WOLF: BUT SLOW, LITTLE GIRL,/ HARK! AND HUSH-
 / THE BIRDS ARE SINGING SWEETLY./: YOU'LL MISS THE BIRDS COMPLETELY,/ YOU'RE TRAVELLING SO FLEETLY.
-WOLF (CONT'D): GRANDMOTHER FIRST,/ THEN MISS PLUMP.../ WHAT A DELECTABLE COUPLE./ UTTER PERFECTION:/ ONE BRITTLE, ONE
+WOLF (CONT'D): GRANDMOTHER FIRST,/ THEN MISS PLUMP/ WHAT A DELECTABLE COUPLE./ UTTER PERFECTION:/ ONE BRITTLE, ONE
 SUPPLE--:
 WOLF (CONT'D): ONE MOMENT, MY DEAR--
 LRRH: MOTHER SAID,/ "COME WHAT MAY,/ FOLLOW THE PATH/ AND NEVER STRAY."
-WOLF: JUST SO, LITTLE GIRL--/ ANY PATH./ SO MANY WORTH EXPLORING./ JUST ONE WOULD BE SO BORING./ AND LOOK WHAT YOU'RE IGNORING...
-WOLF (CONT'D): THINK OF THOSE CRISP,/ AGING BONES,/ THEN SOMETHING FRESH ON THE PALATE./ THINK OF THAT SCRUMPTIOUS CARNALITY/ TWICE IN ONE DAY.../ THERE'S NO POSSIBLE WAY/ TO DESCRIBE WHAT YOU FEEL/ WHEN YOU'RE TALKING TO YOUR MEAL!
+WOLF: JUST SO, LITTLE GIRL--/ ANY PATH./ SO MANY WORTH EXPLORING./ JUST ONE WOULD BE SO BORING./ AND LOOK WHAT YOU'RE IGNORING
+WOLF (CONT'D): THINK OF THOSE CRISP,/ AGING BONES,/ THEN SOMETHING FRESH ON THE PALATE./ THINK OF THAT SCRUMPTIOUS CARNALITY/ TWICE IN ONE DAY/ THERE'S NO POSSIBLE WAY/ TO DESCRIBE WHAT YOU FEEL/ WHEN YOU'RE TALKING TO YOUR MEAL!
 WOLF (CONT'D): For Granny.
-LRRH: MOTHER SAID/ NOT TO STRAY./ STILL, I SUPPOSE,/ A SMALL DELAY--/ GRANNY MIGHT LIKE/ A FRESH BOUQUET.../ Goodbye, Mr. Wolf.
-WOLF: Goodbye, little girl./ AND HELLO...
+LRRH: MOTHER SAID/ NOT TO STRAY./ STILL, I SUPPOSE,/ A SMALL DELAY--/ GRANNY MIGHT LIKE/ A FRESH BOUQUET/ Goodbye, Mr. Wolf.
+WOLF: Goodbye, little girl./ AND HELLO
 WITCH: Why are you standing there?! Go get the cape!
 BAKER: You frightened me!
 WITCH: Get it! Get it! Get it!
@@ -234,7 +238,7 @@ BAKER (CONT'D): Hello there little girl.
 LRRH: Hello, Mr. Baker.
 BAKER: Have you saved some of those sweets for Granny?
 LRRH: I ate all the sweets and half the loaf of bread.
-BAKER: So I see! Now tell me...where did you get that beautiful cape?
+BAKER: So I see! Now tell mewhere did you get that beautiful cape?
 LRRH: My Granny made it for me.
 BAKER: Is that right? I would love a red cape like that.
 LRRH: You'd look pretty foolish.
@@ -254,8 +258,9 @@ BAKER: No! THE SPELL IS ON MY HOUSE--
 WIFE:
 OUR HOUSE--:
 BAKER WIFE:
-WIFE (CONT'D): A cow as white as ...
-BOTH: ... milk.
+WIFE (CONT'D): A cow as white as
+BOTH:
+milk.:
 BAKER: Hello there, young lad.
 JACK: Hello, sir.
 BAKER: What might you be doing with a cow in the middle of the forest?
@@ -267,12 +272,12 @@ BAKER: Five pounds! Where are we to get five pounds?
 WIFE: She must be generous of milk to fetch five pounds?
 JACK: Yes, ma'am.
 WIFE: And if you can't fetch that sum? Then what are you to do?
-JACK: I hadn't thought of that...
-BAKER: This is all we have...
-WIFE: (loudly, for the benefit of the boy) Beans? We mustn't give up our beans! Well, if you feel we must...
+JACK: I hadn't thought of that
+BAKER: This is all we have
+WIFE: (loudly, for the benefit of the boy) Beans? We mustn't give up our beans! Well, if you feel we must
 BAKER: Huh?
 JACK: Beans in exchange for my cow?
-WIFE: Oh, these are no ordinary beans, son. These beans carry...magic.
+WIFE: Oh, these are no ordinary beans, son. These beans carrymagic.
 JACK: Magic? What kind of magic?
 WIFE: Tell him!
 BAKER: Magic that defies description.
@@ -280,9 +285,9 @@ JACK: How many beans?
 BAKER: Six.
 WIFE: Five! They're worth a pound each, at least.
 JACK: Could I buy my cow back someday?
-BAKER: Well ...
+BAKER: Well
 WIFE: Yes.
-BAKER: ...possibly. Here.
+BAKER: possibly. Here.
 BAKER (CONT'D): Good luck there, young lad.
 JACK: One day, I'll buy you back -- Promise!
 BAKER: Take the cow and go home!
@@ -291,20 +296,20 @@ BAKER: Magic beans! We've no reason to believe they're magic! Are we going to di
 WIFE: No one would have given him more for this creature. We did him a favor. At least they'll have some food.
 BAKER: Five beans?!
 WIFE: Do we want a child or not?
-BAKER: Of course. But...
-WIFE: We have one chance. Don't you see that? And if we fail...
+BAKER: Of course. But
+WIFE: We have one chance. Don't you see that? And if we fail
 BAKER: I'm just not sure I'm cut out to be a father.
 WIFE: Why do you say that?
 BAKER: Because of my father.
 WIFE: You're not him.
-BAKER: I don't know...
+BAKER: I don't know
 WIFE: If you can't do this for yourself, can't you at least do it for me?
 BAKER: All right. You take the cow and go home. I'll find the rest of the things. On my own.
 R-PRINCE POV:
 WITCH: Rapunzel. Rapunzel. Let down your hair to me.
-R'S PRINCE: Rapunzel...
+R'S PRINCE: Rapunzel
 BAKER (V.O.): The old enchantress had given the name Rapunzel to the child she had hidden away and locked in a a doorless tower. But little did she know that the girl's lilting voice had caught the attention of a handsome Prince."
-R'S PRINCE: Rapunzel...
+R'S PRINCE: Rapunzel
 WITCH: Don't you look lovely today, my dear.
 RAPUNZEL: Thank you, Mother.
 WITCH: I brought your favorite. Blackberries, fresh from the garden.
@@ -323,7 +328,7 @@ GRANNY: What kind of hunter are you?
 BAKER: I'm a baker.
 LRRH: Wait a minute. I never thanked you.
 BAKER: You need to be more careful, young lady.
-LRRH: I'm sorry. I should have known better. MOTHER SAID,/ "STRAIGHT AHEAD,"/ NOT TO DELAY/ OR BE MISLED./ I SHOULD HAVE HEEDED/ HER ADVICE.../ BUT HE SEEMED SO NICE. AND HE SHOWED ME THINGS,/ MANY BEAUTIFUL THINGS,/ THAT I HADN'T THOUGHT TO EXPLORE./ THEY WERE OFF MY PATH,/ SO I NEVER HAD DARED./ I HAD BEEN SO CAREFUL/ I NEVER HAD CARED./ AND HE MADE ME FEEL EXCITED--/ WELL, EXCITED AND SCARED. LRRH (V.O.) (CONT'D) WHEN HE SAID "COME IN!"/ WITH THAT SICKENING GRIN,/ HOW COULD I KNOW WHAT WAS IN STORE?/ ONCE HIS TEETH WERE BARED,/ THOUGH, I REALLY GOT SCARED--/ WELL, EXCITED AND SCARED./ LRRH (V.O.) (CONT'D) BUT HE DREW ME CLOSE /AND HE SWALLOWED ME DOWN,/ DOWN A DARK, SLIMY PATH/ WHERE LIE SECRETS THAT I NEVER WANT TO KNOW,/ LRRH (V.O.) (CONT'D) AND WHEN EVERYTHING FAMILIAR/ SEEMED TO DISAPPEAR FOREVER,/ AT THE END OF THE PATH/ WAS GRANNY ONCE AGAIN. LRRH (V.O.) (CONT'D) SO WE LAY IN THE DARK/ TILL YOU CAME AND SET US FREE, LRRH (V.O.) (CONT'D) AND YOU BROUGHT US TO THE LIGHT,
+LRRH: I'm sorry. I should have known better. MOTHER SAID,/ "STRAIGHT AHEAD,"/ NOT TO DELAY/ OR BE MISLED./ I SHOULD HAVE HEEDED/ HER ADVICE/ BUT HE SEEMED SO NICE. AND HE SHOWED ME THINGS,/ MANY BEAUTIFUL THINGS,/ THAT I HADN'T THOUGHT TO EXPLORE./ THEY WERE OFF MY PATH,/ SO I NEVER HAD DARED./ I HAD BEEN SO CAREFUL/ I NEVER HAD CARED./ AND HE MADE ME FEEL EXCITED--/ WELL, EXCITED AND SCARED. LRRH (V.O.) (CONT'D) WHEN HE SAID "COME IN!"/ WITH THAT SICKENING GRIN,/ HOW COULD I KNOW WHAT WAS IN STORE?/ ONCE HIS TEETH WERE BARED,/ THOUGH, I REALLY GOT SCARED--/ WELL, EXCITED AND SCARED./ LRRH (V.O.) (CONT'D) BUT HE DREW ME CLOSE /AND HE SWALLOWED ME DOWN,/ DOWN A DARK, SLIMY PATH/ WHERE LIE SECRETS THAT I NEVER WANT TO KNOW,/ LRRH (V.O.) (CONT'D) AND WHEN EVERYTHING FAMILIAR/ SEEMED TO DISAPPEAR FOREVER,/ AT THE END OF THE PATH/ WAS GRANNY ONCE AGAIN. LRRH (V.O.) (CONT'D) SO WE LAY IN THE DARK/ TILL YOU CAME AND SET US FREE, LRRH (V.O.) (CONT'D) AND YOU BROUGHT US TO THE LIGHT,
 LRRH: AND WE'RE BACK AT THE START.
 LRRH (CONT'D): AND I KNOW THINGS NOW,/ MANY VALUABLE THINGS,/ THAT I HADN'T KNOWN BEFORE:/ DO NOT PUT YOUR FAITH/ IN A CAPE AND A HOOD,
 LRRH (CONT'D): THEY WILL NOT PROTECT YOU/ THE WAY THAT THEY SHOULD./ AND TAKE EXTRA CARE WITH STRANGERS--/ EVEN FLOWERS HAVE THEIR DANGERS./ AND THOUGH SCARY IS EXCITING,/ NICE IS DIFFERENT THAN GOOD. Mr. Baker. You saved our lives. Here.
@@ -331,7 +336,7 @@ BAKER: Are you certain?
 LRRH: Yes. Maybe Granny will make me another with the skins of the wolf.
 BAKER: Thank you. Thank you!
 LRRH: Yuck!
-LRRH (CONT'D): NOW, I KNOW:/ DON'T BE SCARED./ GRANNY IS RIGHT,/ JUST BE PREPARED./ ISN'T IT NICE TO KNOW A LOT?/ AND A LITTLE BIT NOT...
+LRRH (CONT'D): NOW, I KNOW:/ DON'T BE SCARED./ GRANNY IS RIGHT,/ JUST BE PREPARED./ ISN'T IT NICE TO KNOW A LOT?/ AND A LITTLE BIT NOT
 JACK'S MOTHER: How could you do this? What sort of boy would exchange a cow for beans?
 JACK: But they're magic -- the man said --
 JACK'S MOTHER: Get your head out of the clouds!
@@ -363,7 +368,7 @@ CINDERELLA: AND--/ IT'S A VERY NICE BALL.
 WIFE: AND?
 CINDERELLA: AND--/ WHEN I ENTERED, THEY TRUMPETED.
 WIFE: AND--?/ THE PRINCE--?
-CINDERELLA: OH, THE PRINCE...
+CINDERELLA: OH, THE PRINCE
 WIFE: YES, THE PRINCE!
 CINDERELLA: WELL, HE'S TALL.
 WIFE: IS THAT ALL?/ DID YOU DANCE?/ IS HE CHARMING?/ THEY SAY THAT HE'S CHARMING.
@@ -371,19 +376,19 @@ CINDERELLA: WE DID NOTHING BUT DANCE.
 WIFE: YES--? AND--?
 CINDERELLA: AND IT MADE A NICE CHANGE.
 WIFE: NO, THE PRINCE!
-CINDERELLA: OH, THE PRINCE...
+CINDERELLA: OH, THE PRINCE
 WIFE: YES, THE PRINCE.
-CINDERELLA: HE HAS CHARM FOR A PRINCE, I GUESS...
+CINDERELLA: HE HAS CHARM FOR A PRINCE, I GUESS
 WIFE: GUESS?
 CINDERELLA: I DON'T MEET A WIDE RANGE. AND IT'S ALL VERY STRANGE.
 WIFE: But why would you run away?
 CINDERELLA: It's not quite what I expected.
-WIFE: Princes, castles, gowns...
+WIFE: Princes, castles, gowns
 CINDERELLA: I have no experience with those things.
 WIFE: But you will return to the Festival tomorrow eve?
-CINDERELLA: Yes... No... I don't know...
+CINDERELLA: Yes No I don't know
 WIFE: You don't know? What I wouldn't give to be in your shoes. (looking to her
-SHOES): ...I mean your slippers. As pure as gold?
+SHOES): I mean your slippers. As pure as gold?
 CINDERELLA: I must get home.
 WIFE: Wait! I need your shoes!
 WIFE (CONT'D): Milky-White!
@@ -418,12 +423,12 @@ JACK: You keep that. I'll fetch some more.
 BAKER: Wait. I didn't say--
 BAKER (CONT'D): Hey, come back!
 BAKER: What are you doing here?
-WIFE: Well...
+WIFE: Well
 WIFE (CONT'D): I see you've got the red cape!
 BAKER: Yes. I've got the cape. Only two items left.
 WIFE: Three.
 BAKER: Two. We've the cape and the cow.
-WIFE: You've the cape...
+WIFE: You've the cape
 BAKER: What have you done with the cow?!
 WIFE: She ran away. I never reached home. I've been looking for her all night.
 BAKER: How could you?
@@ -487,12 +492,12 @@ BAKER (V.O.): As the Baker's Wife bolted from the tower, the second night of the
 C'S PRINCE (O.S.): Over here! C'S PRINCE (CONT'D) Who is she? Where did she go?
 WIFE: I have no idea, sir.
 C'S PRINCE: Don't play the fool, woman!
-WIFE: I was trying to hold her here for you...
+WIFE: I was trying to hold her here for you
 C'S PRINCE: I can capture my own damsel, thank you.
 WIFE: Yes, of course.
 STEWARD: No sign of her, my liege.
-C'S PRINCE: Well, what are you waiting for? See if you can find her. C'S PRINCE (CONT'D) The woods can be a dangerous place...
-BAKER: Moo... Moo......
+C'S PRINCE: Well, what are you waiting for? See if you can find her. C'S PRINCE (CONT'D) The woods can be a dangerous place
+BAKER: Moo Moo
 BAKER'S POV:
 ANOTHER ANGLE:
 BAKER (CONT'D): Please, if you would be so kind, may I compare this ear of corn with your hair? LUCINDA AND FLORINDA Don't touch us! Get away! How dare you!
@@ -511,7 +516,7 @@ BAKER: Three!
 WIFE: And I almost had the fourth, but she got away.
 BAKER: We've one entire day left. Surely we can locate the slipper by then.
 WIFE: We? You mean you're going to let me stay with you?
-BAKER: Well...perhaps it will take the two of us to have this child.
+BAKER: Wellperhaps it will take the two of us to have this child.
 WIFE: YOU'VE CHANGED./ YOU'RE DARING./ YOU'RE DIFFERENT IN THE WOODS./ MORE SURE,/ MORE SHARING./ YOU'RE GETTING US THROUGH THE WOODS. IF YOU COULD SEE--/ YOU'RE NOT THE MAN WHO STARTED,/ AND MUCH MORE OPEN- HEARTED/ THEN I KNEW/ YOU TO BE.
 BAKER: IT TAKES TWO./ I THOUGHT ONE WAS ENOUGH,/ IT'S NOT TRUE:/ IT TAKES TWO OF US./ YOU CAME THROUGH/ WHEN THE JOURNEY WAS ROUGH--/ IT TOOK YOU./ IT TOOK TWO OF US. IT TAKES CARE,/ IT TAKES PATIENCE AND FEAR AND DESPAIR/ TO CHANGE./ THOUGH YOU SWEAR/ TO CHANGE,/ WHO CAN TELL IF YOU DO?/ IT TAKES TWO.
 WIFE: YOU'VE CHANGED./ YOU'RE THRIVING./ THERE'S SOMETHING ABOUT THE WOODS./ NOT JUST/ SURVIVING,/ YOU'RE BLOSSOMING IN THE WOODS. AT HOME I'D FEAR/ WE'D STAY THE SAME FOREVER./ AND THEN OUT HERE/ YOU'RE PASSIONATE, CHARMING, CONSIDERATE,
@@ -533,7 +538,7 @@ WIFE: Where are the five gold pieces?
 JACK: You said I could have my cow!
 BAKER WIFE:
 BAKER: No, no, no - it's not how it sounds!
-JACK: Milky-White...!
+JACK: Milky-White!
 JACK (CONT'D): Milky-White is dead!
 WITCH(O.S.): TWO MIDNIGHTS GONE!
 BAKER (V.O.): When dawn broke, the Baker and his Wife had but one day left to reverse the Witch's curse. As for Rapunzel's Prince, he returned yet again to the forbidden tower.
@@ -583,12 +588,12 @@ WIFE: I have met a maiden with golden slippers these two previous nights.
 BAKER: You think you could get one?
 WIFE: Yes, I'm sure of it. I'll meet you back here.
 BAKER: Right. Why are we always separating?
-WIFE: Because we have to if we're going to be together...
+WIFE: Because we have to if we're going to be together
 WIFE (CONT'D): What is happening?
-BAKER (V.O.): The entire kingdom shook when the beanstalk came crashing down, killing the Giant...
-BAKER (V.O.): ...as for Cinderella, she fled from the Prince... again.
+BAKER (V.O.): The entire kingdom shook when the beanstalk came crashing down, killing the Giant
+BAKER (V.O.): as for Cinderella, she fled from the Prince again.
 CINDERELLA: HE'S A VERY SMART PRINCE,/ HE'S A PRINCE WHO PREPARES./ KNOWING THIS TIME I'D RUN FROM HIM,/ HE SPREAD PITCH ON THE STAIRS./ AND I'M CAUGHT UNAWARES./ WELL, IT MEANS THAT HE CARES--/ THIS IS MORE THAN JUST MALICE./ BETTER STOP AND TAKE STOCK/ WHILE YOU'RE STANDING HERE STUCK/ ON THE STEPS OF THE PALACE. ALL RIGHT, WHAT DO YOU WANT?/ HAVE TO MAKE A DECISION./ WHY NOT STAY AND BE CAUGHT?/ SHOULD I GIVE THAT A THOUGHT,/ WHAT WOULD BE HIS RESPONSE?/
-CINDERELLA (CONT'D): BUT THEN WHAT IF HE KNEW/ WHO I AM WHEN I KNOW/ THAT I'M NOT WHAT HE THINKS/ THAT HE WANTS? OR THEN WHAT IF I AM/ WHAT A PRINCE WOULD ENVISION?/ BUT THEN HOW CAN YOU KNOW/ WHO YOU ARE TILL YOU KNOW/ WHAT YOU WANT, WHICH I DON'T?/ SO THEN WHICH DO YOU PICK:/ WHERE YOU'RE SAFE, OUT OF SIGHT,/ AND YOURSELF, BUT WHERE EVERYTHING'S WRONG?/ OR WHERE EVERYTHING'S RIGHT/ BUT YOU KNOW THAT YOU'LL NEVER BELONG? AND WHICHEVER YOU PICK,/ DO IT QUICK,/ `CAUSE YOU'RE STARTING TO STICK/ TO THE STEPS OF THE PALACE. IT'S MY FIRST BIG DECISION,/ THE CHOICE ISN'T EASY TO MAKE./ TO ARRIVE AT A BALL/ IS EXCITING AND ALL--/ ONCE YOU'RE THERE, THOUGH, IT'S SCARY. AND IT'S FUN TO DECEIVE/ WHEN YOU KNOW YOU CAN LEAVE,/ BUT YOU HAVE TO BE WARY. THERE'S A LOT THAT'S AT STAKE,/ BUT I'VE STALLED LONG ENOUGH,/ `CAUSE I'M STILL STANDING STUCK/ IN THE STUFF ON THESE STEPS... BETTER RUN ALONG HOME/ AND AVOID THE COLLISION./ THOUGH AT HOME THEY DON'T CARE,/ I'LL BE BETTER OFF THERE/ WHERE THERE'S NOTHING TO CHOOSE,/ SO THERE'S NOTHING TO LOSE./ SO I'LL PRY UP MY SHOES.
+CINDERELLA (CONT'D): BUT THEN WHAT IF HE KNEW/ WHO I AM WHEN I KNOW/ THAT I'M NOT WHAT HE THINKS/ THAT HE WANTS? OR THEN WHAT IF I AM/ WHAT A PRINCE WOULD ENVISION?/ BUT THEN HOW CAN YOU KNOW/ WHO YOU ARE TILL YOU KNOW/ WHAT YOU WANT, WHICH I DON'T?/ SO THEN WHICH DO YOU PICK:/ WHERE YOU'RE SAFE, OUT OF SIGHT,/ AND YOURSELF, BUT WHERE EVERYTHING'S WRONG?/ OR WHERE EVERYTHING'S RIGHT/ BUT YOU KNOW THAT YOU'LL NEVER BELONG? AND WHICHEVER YOU PICK,/ DO IT QUICK,/ `CAUSE YOU'RE STARTING TO STICK/ TO THE STEPS OF THE PALACE. IT'S MY FIRST BIG DECISION,/ THE CHOICE ISN'T EASY TO MAKE./ TO ARRIVE AT A BALL/ IS EXCITING AND ALL--/ ONCE YOU'RE THERE, THOUGH, IT'S SCARY. AND IT'S FUN TO DECEIVE/ WHEN YOU KNOW YOU CAN LEAVE,/ BUT YOU HAVE TO BE WARY. THERE'S A LOT THAT'S AT STAKE,/ BUT I'VE STALLED LONG ENOUGH,/ `CAUSE I'M STILL STANDING STUCK/ IN THE STUFF ON THESE STEPS BETTER RUN ALONG HOME/ AND AVOID THE COLLISION./ THOUGH AT HOME THEY DON'T CARE,/ I'LL BE BETTER OFF THERE/ WHERE THERE'S NOTHING TO CHOOSE,/ SO THERE'S NOTHING TO LOSE./ SO I'LL PRY UP MY SHOES.
 CINDERELLA (CONT'D): WAIT, THOUGH, THINKING IT THROUGH,/ THINGS DON'T HAVE TO COLLIDE--/ I KNOW WHAT MY DECISION IS:/ WHICH IS NOT TO DECIDE./I'LL JUST LEAVE HIM A CLUE:/ FOR EXAMPLE, A SHOE./ AND THEN SEE WHAT HE'LL DO.
 CINDERELLA (CONT'D): NOW IT'S HE AND NOT YOU/ WHO'LL BE STUCK WITH A SHOE,/ IN A STEW,/ IN THE GOO,/ AND I'VE LEARNED SOMETHING, TOO,/ SOMETHING I NEVER KNEW,/ ON THE STEPS OF THE PALACE!
 C'S PRINCE: The ball is over. Send everyone home.
@@ -612,13 +617,13 @@ WIFE: Thank you! Thank you!
 STEWARD: Stop! What is that you have in your hand?
 WIFE: It's mine.
 STEWARD: Lying will cost you your life!
-WIFE: I don't care if this costs me my life...
+WIFE: I don't care if this costs me my life
 STEWARD: You will pay for this!
 STEWARD (CONT'D): Sire! I have succeeded in obtaining the other slipper.
 WIFE: Please give me the slipper, kind Prince, and all will come to a happy end.
 STEWARD: Step back, peon!
 C'S PRINCE: Do as she says, Steward. We only need one.
-STEWARD: Oh...
+STEWARD: Oh
 WIFE: Thank you. Thank you!
 C'S PRINCE: We must search immediately for the maiden who fits this slipper.
 STEWARD: Tonight?
@@ -641,7 +646,7 @@ STEPMOTHER: It's a perfect fit, Your Highness!
 C'S PRINCE: Have you no other daughters?
 STEPMOTHER: Only a little stunted kitchen wench, which her late father left behind but she cannot present herself. She is too dirty.
 C'S PRINCE: I would recognize these beautiful eyes anywhere. This is the true bride!
-BAKER (V.O.): As punishment for their cruelty, Cinderella's birds swooped down upon the Stepsisters... and blinded them.
+BAKER (V.O.): As punishment for their cruelty, Cinderella's birds swooped down upon the Stepsisters and blinded them.
 BAKER (V.O.): As for Rapunzel, the Witch had banished her to a swamp in the darkest depths of the forest.
 R'S PRINCE: Rapunzel? Rapunzel?
 RAPUNZEL: My darling!
@@ -650,7 +655,7 @@ RAPUNZEL: How could she do this to you?
 R'S PRINCE: Rapunzel!
 RAPUNZEL: What?
 R'S PRINCE: I can see you!
-BAKER: Come on! We don't have any time...
+BAKER: Come on! We don't have any time
 WIFE: I've found you! You've got the cow!
 BAKER: You've got the slipper!
 WIFE: We've all four!
@@ -675,7 +680,7 @@ JACK'S MOTHER: You know there is. You could have been crushed!
 JACK: But Mother, look. The most beautiful harp.
 JACK'S MOTHER: You've stolen too much. JACK'S MOTHER (CONT'D) You could have been killed coming down that plant.
 WIFE: We're running out of time!
-BAKER: It's here...
+BAKER: It's here
 JACK: What's happening?
 BAKER: She's going to bring Milky-White back to life.
 JACK: She can do that?
@@ -704,7 +709,7 @@ WITCH: You what?! What were you doing there?
 WIFE: Well, nothing. I happened to be
 PASSING BY--:
 WITCH: I touched that hair! I told you! I cannot have touched the ingredients!
-BAKER/WIFE: Nooooo...
+BAKER/WIFE: Nooooo
 JACK: The corn! The corn!
 BAKER: What?
 JACK: You can use the silky hair of the corn--
@@ -720,8 +725,8 @@ BAKER (V.O.): And the Baker and his Wife were proud parents of a strapping baby 
 WIFE: Thanks for the slipper.
 STEWARD: Let us cheer the newlyweds as they embark on their happy bliss today, and
 EVER AFTER--:
-BAKER (V.O.): And so with the kingdom filled with joy, those who deserved to were destined to live happily ever...
-JACK'S MOTHER: Jack? Jack...?
+BAKER (V.O.): And so with the kingdom filled with joy, those who deserved to were destined to live happily ever
+JACK'S MOTHER: Jack? Jack?
 BAKER: Are you alright?
 WIFE: I think so.
 BAKER: And the baby?
@@ -743,7 +748,7 @@ BAKER: Why does he always cry when I hold him?
 WIFE: You needn't hold him as if he was so fragile.
 BAKER: He doesn't want me. He wants his mother!
 WIFE: I can't take care of him all of the time.
-BAKER: I'll take care of him -- when he's older...
+BAKER: I'll take care of him -- when he's older
 WIFE: Who might that be?
 BAKER: It's the Steward and the royal family.
 BAKER: What brings you into the woods?
@@ -764,7 +769,7 @@ LRRH: It was you who destroyed our house - not an earthquake.
 GIANT: And who destroyed my house? I want him!
 WITCH: Would you like a blind girl instead?
 STEPMOTHER: How dare you? She wants the boy!
-JACK'S MOTHER: Jack! Has anyone seen my Jack? He ran off again and I've been...
+JACK'S MOTHER: Jack! Has anyone seen my Jack? He ran off again and I've been
 STEWARD: She's looking for him too.
 GIANT: Give him to me!
 JACK'S MOTHER: Jack is just a lad! We had no food to eat so he sold his beloved cow in exchange for magic beans.
@@ -776,7 +781,7 @@ STEWARD: Don't make her angry, woman, or you'll get us all killed!
 JACK'S MOTHER: Flouncing through our kingdom with your great big clodhopppers, destroying everything in your path.
 STEWARD: Stop!
 BAKER: Don't upset the Giant!
-JACK'S MOTHER: You big bully! I'll hide my son and you'll never find him. You'll never, ever...
+JACK'S MOTHER: You big bully! I'll hide my son and you'll never find him. You'll never, ever
 STEWARD: Get back woman!
 STEWARD (CONT'D): The boy is hiding in the steeple tower. You can find him there.
 STEPMOTHER: Yes, that's true.
@@ -808,14 +813,14 @@ WITCH: Then you leave me no choice.
 R'S PRINCE: You! The one who blinded me.
 RAPUNZEL: And locked me in a tower.
 WITCH: To protect you.
-RAPUNZEL: ...and then banished me to an island -- in the middle of a swamp!
+RAPUNZEL: and then banished me to an island -- in the middle of a swamp!
 WITCH: I was just trying to be a good mother!
-R'S PRINCE: Rapunzel...
+R'S PRINCE: Rapunzel
 WITCH: Rapunzel, no! You will never be safe with him.
 RAPUNZEL: Take me away from here.
 WITCH: No! Rapunzel!
 RAPUNZEL: Don't you understand? I never want to see you again. Ever!
-WITCH: NO MATTER WHAT YOU SAY,/ CHILDREN WON'T LISTEN./ NO MATTER WHAT YOU KNOW,/ CHILDREN REFUSE/ TO LEARN. GUIDE THEM ALONG THE WAY,/ STILL THEY DON'T LISTEN./ CHILDREN CAN ONLY GROW/ FROM SOMETHING YOU LOVE/ TO SOMETHING YOU LOSE...
+WITCH: NO MATTER WHAT YOU SAY,/ CHILDREN WON'T LISTEN./ NO MATTER WHAT YOU KNOW,/ CHILDREN REFUSE/ TO LEARN. GUIDE THEM ALONG THE WAY,/ STILL THEY DON'T LISTEN./ CHILDREN CAN ONLY GROW/ FROM SOMETHING YOU LOVE/ TO SOMETHING YOU LOSE
 BAKER (O.S.) BAKER'S WIFE (O.S.):
 LRRH (O.S.): Jack!
 BAKER: We're never going to find him.
@@ -830,20 +835,20 @@ BAKER: You would leave our son with her?
 WIFE: Yes. He's asleep. He'll be safe with the girl.
 LRRH: I am very capable of caring for the baby.
 WIFE: See?
-BAKER: But what if the Giant comes back...
+BAKER: But what if the Giant comes back
 WIFE: What if, what if! Five hundred paces. Go!
-WIFE (CONT'D): One, two...
+WIFE (CONT'D): One, two
 BAKER: Wait! Take this. It might be cold.
-WIFE/BAKER: One...two...three...four...
-WIFE: One eighty-one...one eighty-two... one eighty-three... one eighty-four... (looks up; startled; Hello, Your Royal Highness.
+WIFE/BAKER: Onetwothreefour
+WIFE: One eighty-oneone eighty-two one eighty-three one eighty-four (looks up; startled; Hello, Your Royal Highness.
 C'S PRINCE: Hello.
 WIFE: You must be here to slay the Giant.
 C'S PRINCE: The Giant?
-WIFE: Yes. Surely you've heard there is a giant in our midst. Not an earthquake...
+WIFE: Yes. Surely you've heard there is a giant in our midst. Not an earthquake
 C'S PRINCE: Of course. A giant.
 WIFE: Yes, it's a lady giant. Unusual, huh?
 C'S PRINCE: I should think. And why are you alone in the woods?
-WIFE: I came with my husband. We were ... well you see ... it's a long story.
+WIFE: I came with my husband. We were well you see  it's a long story.
 C'S PRINCE: He would let you roam alone in the woods?
 WIFE: No, actually it was my choice.
 C'S PRINCE: How brave.
@@ -855,11 +860,11 @@ C'S PRINCE: DON'T FEEL RUSHED.
 WIFE: THIS IS RIDICULOUS,/ WHAT AM I DOING HERE?/ I'M IN THE WRONG STORY.
 WIFE (CONT'D): Wait one moment, please! We can't do this! You have a Princess!
 C'S PRINCE: Well, yes, I do.
-WIFE: And I have a...baker.
+WIFE: And I have abaker.
 C'S PRINCE: Of course, you're right. How foolish./ FOOLISHNESS CAN HAPPEN IN THE WOODS./ ONCE AGAIN, PLEASE--/ LET YOUR HESITATIONS BE HUSHED. ANY MOMENT, BIG OR SMALL,/ IS A MOMENT, AFTER ALL./ SEIZE THE MOMENT, SKIES MAY FALL/ ANY MOMENT.
 WIFE: But this is not right!
 C'S PRINCE: RIGHT AND WRONG DON'T MATTER IN THE WOODS,/ ONLY FEELINGS./ LET US MEET THE MOMENT UNBLUSHED./ LIFE IS OFTEN SO UNPLEASANT--/ YOU MUST KNOW THAT, AS A PEASANT--/ BEST TO TAKE THE MOMENT PRESENT/ AS A PRESENT FOR THE MOMENT.
-BAKER: Four eighty two... four eighty three... Excuse me, ma'am. Have you seen a boy... (notices she is
+BAKER: Four eighty two four eighty three Excuse me, ma'am. Have you seen a boy (notices she is
 CRYING): I'm sorry, may I be of some service?
 CINDERELLA: The tree has fallen. Mother's grave, destroyed.
 BAKER: Oh. I'm sorry.
@@ -869,7 +874,7 @@ CINDERELLA: Well, I'm sure the Prince will see to it that the Giant is rid from 
 BAKER: Hah, the Prince? No doubt he's off somewhere seducing some young maiden.
 CINDERELLA: What?
 BAKER: You look just like the Princess -- but dirty. Oh no, you are the Princess!
-CINDERELLA: Please. Please... Get up! I'm not a princess here.
+CINDERELLA: Please. Please Get up! I'm not a princess here.
 BAKER: I'm sorry. I didn't recognize you.
 CINDERELLA: I had to disguise myself. I'm not permitted to leave the palace unescorted.
 BAKER: If you'd like you can come with me. You will be safe in our company.
@@ -879,12 +884,12 @@ C'S PRINCE: I must leave you. C'S PRINCE (CONT'D) Now I must go off to slay a gi
 WIFE: What was that?/ WAS THAT ME?/ WAS THAT HIM?/ DID A PRINCE REALLY KISS ME?/ AND KISS ME?/ AND KISS ME?/ AND DID I KISS HIM BACK? WAS IT WRONG?/ AM I MAD?/ IS THAT ALL?/ DOES HE MISS ME?/ WAS HE SUDDENLY/ GETTING BORED WITH ME? WAKE UP! STOP DREAMING./ STOP PRANCING ABOUT THE WOODS./ IT'S NOT BESEEMING./ WHAT IS IT ABOUT THE WOODS? BACK TO LIFE, BACK TO SENSE,/ BACK TO CHILD, BACK TO HUSBAND,/ NO ONE LIVES IN THE WOODS./ THERE ARE VOWS, THERE ARE TIES,/ THERE ARE NEEDS, THERE ARE STANDARDS,/ THERE ARE SHOULDN'TS AND SHOULDS. (she stops for a
 MOMENT):
 WIFE (CONT'D): WHY NOT BOTH INSTEAD?/ THERE'S THE ANSWER, IF YOU'RE CLEVER:/ HAVE A CHILD FOR WARMTH/ AND A BAKER FOR BREAD,/ AND A PRINCE FOR WHATEVER--/ NEVER!/ IT'S THESE WOODS.
-WIFE (CONT'D): FACE THE FACTS, FIND THE BOY,/ JOIN THE GROUP, STOP THE GIANT,/ JUST GET OUT OF THESE WOODS./ WAS THAT HIM? YES IT WAS./ WAS THAT ME? NO, IT WASN'T,/ JUST A TRICK OF THE WOODS. JUST A MOMENT,/ ONE PECULIAR PASSING MOMENT... MUST IT ALL BE EITHER LESS OR MORE,/ EITHER PLAIN OR GRAND?/ IS IT ALWAYS "OR"?/ IS IT NEVER "AND"?/ THAT'S WHAT WOODS ARE FOR:/ FOR THOSE MOMENTS IN THE WOODS.
-WIFE (CONT'D): OH, IF LIFE WERE MADE OF MOMENTS,/ EVEN NOW AND THEN A BAD ONE--!/ BUT IF LIFE WERE ONLY MOMENTS,/ THEN YOU'D NEVER KNOW YOU HAD ONE. FIRST A WITCH, THEN A CHILD,/ THEN A PRINCE, THEN A MOMENT--/ WHO CAN LIVE IN THE WOODS?/ AND TO GET WHAT YOU WISH,/ ONLY JUST FOR A MOMENT--/ THESE ARE DANGEROUS WOODS... LET THE MOMENT GO./ DON'T FORGET IT FOR A MOMENT, THOUGH./
+WIFE (CONT'D): FACE THE FACTS, FIND THE BOY,/ JOIN THE GROUP, STOP THE GIANT,/ JUST GET OUT OF THESE WOODS./ WAS THAT HIM? YES IT WAS./ WAS THAT ME? NO, IT WASN'T,/ JUST A TRICK OF THE WOODS. JUST A MOMENT,/ ONE PECULIAR PASSING MOMENT MUST IT ALL BE EITHER LESS OR MORE,/ EITHER PLAIN OR GRAND?/ IS IT ALWAYS "OR"?/ IS IT NEVER "AND"?/ THAT'S WHAT WOODS ARE FOR:/ FOR THOSE MOMENTS IN THE WOODS.
+WIFE (CONT'D): OH, IF LIFE WERE MADE OF MOMENTS,/ EVEN NOW AND THEN A BAD ONE--!/ BUT IF LIFE WERE ONLY MOMENTS,/ THEN YOU'D NEVER KNOW YOU HAD ONE. FIRST A WITCH, THEN A CHILD,/ THEN A PRINCE, THEN A MOMENT--/ WHO CAN LIVE IN THE WOODS?/ AND TO GET WHAT YOU WISH,/ ONLY JUST FOR A MOMENT--/ THESE ARE DANGEROUS WOODS LET THE MOMENT GO./ DON'T FORGET IT FOR A MOMENT, THOUGH./
 WIFE (CONT'D): JUST REMEMBERING YOU'VE HAD AN "AND,"/ WHEN YOU'RE BACK TO "OR"/
 WIFE (CONT'D): MAKES THE "OR" MEAN MORE/ THAN IT DID BEFORE./ NOW I UNDERSTAND--/ AND IT'S TIME TO LEAVE THE WOODS!
 BACK::
-WIFE (CONT'D): One eighty-four... one eighty-three... one eighty-two...
+WIFE (CONT'D): One eighty-four one eighty-three one eighty-two
 BAKER: She should be back by now.
 LRRH: She wouldn't get lost.
 CINDERELLA: I'm sure she'll return.
@@ -898,12 +903,12 @@ LRRH: Leave him alone!
 BAKER: (at the top of his
 LUNGS): Stop! I said stop!
 BAKER (CONT'D): Where did you find this?
-JACK: I'm sorry, sir...
+JACK: I'm sorry, sir
 BAKER: It's my wife's!
-JACK: I'm sorry. I came upon her. She was at the bottom of a cliff...
+JACK: I'm sorry. I came upon her. She was at the bottom of a cliff
 BAKER: What are you saying?
-CINDERELLA: How awful...
-BAKER: No. No...!
+CINDERELLA: How awful
+BAKER: No. No!
 BAKER (CONT'D): This is my fault. I let her wander off alone. I should have made her stay with me.
 WITCH: Remorse will get you nowhere.
 BAKER: My wife is dead!
@@ -931,11 +936,11 @@ WITCH: SO.
 CINDERELLA: IT WAS HIS FAULT.
 JACK: NO.
 BAKER: YES, IT IS,/ IT'S HIS.
-CINDERELLA: I GUESS...
-JACK: WAIT A MINUTE, THOUGH--/ I CHOPPED DOWN THE BEANSTALK,/ RIGHT? THAT'S CLEAR./ BUT WITHOUT ANY BEANSTALK,/ THEN WHAT'S QUEER/ IS HOW DID THE SECOND GIANT GET DOWN HERE/ IN THE FIRST PLACE?/ SECOND PLACE...
+CINDERELLA: I GUESS
+JACK: WAIT A MINUTE, THOUGH--/ I CHOPPED DOWN THE BEANSTALK,/ RIGHT? THAT'S CLEAR./ BUT WITHOUT ANY BEANSTALK,/ THEN WHAT'S QUEER/ IS HOW DID THE SECOND GIANT GET DOWN HERE/ IN THE FIRST PLACE?/ SECOND PLACE
 CINDERELLA: YES!
 LRRH: HOW?
-BAKER: HMM...
+BAKER: HMM
 JACK: WELL,/ WHO HAD THE OTHER BEAN?
 BAKER: THE OTHER BEAN?
 CINDERELLA: THE OTHER BEAN?
@@ -985,10 +990,10 @@ LRRH/CINDERELLA: NO!
 WITCH: No?/ YOU'RE SO NICE./ YOU'RE NOT GOOD,/ YOU'RE NOT BAD,/ YOU'RE JUST NICE./ I'M NOT GOOD,/ I'M NOT NICE,/ I'M JUST RIGHT./ I'M THE WITCH./ YOU'RE THE WORLD. I'M THE HITCH,/ I'M WHAT NO ONE BELIEVES,/ I'M THE WITCH./ YOU'RE ALL LIARS AND THIEVES,/ LIKE HIS FATHER,/ LIKE HIS SON WILL BE, TOO--/ OH, WHY BOTHER?/ YOU'LL JUST DO WHAT YOU DO. IT'S THE LAST MIDNIGHT,/ SO GOODBYE, ALL./ COMING AT YOU FAST, MIDNIGHT--/ SOON YOU'LL SEE THE SKY FALL.
 WITCH (CONT'D): HERE, YOU WANT A BEAN?/ HAVE ANOTHER BEAN./ BEANS WERE MADE FOR MAKING YOU RICH!/ PLANT THEM AND THEY SOAR--/ HERE, YOU WANT SOME MORE?/ LISTEN TO THE ROAR:/ GIANTS BY THE SCORE--!/ OH WELL, YOU CAN BLAME ANOTHER WITCH. IT'S THE LAST MIDNIGHT,/ IT'S THE LAST VERSE./ NOW, BEFORE IT'S PAST MIDNIGHT,/ I'M LEAVING YOU MY LAST CURSE:/ I'M LEAVING YOU ALONE./ YOU CAN TEND THE GARDEN, IT'S YOURS./ SEPARATE AND ALONE,/ EVERYBODY DOWN ON ALL FOURS. ALL RIGHT, MOTHER, WHEN?/ LOST THE BEANS AGAIN!/ PUNISH ME THE WAY YOU DID THEN!/ GIVE ME CLAWS AND A HUNCH,/ JUST AWAY FROM THIS BUNCH/ AND THE GLOOM/ AND THE DOOM/ AND THE BOOM/
 WITCH (CONT'D): CRUUUUNCH!
-JACK: Maybe I shouldn't have stolen from the Giant...
-LRRH: Maybe I shouldn't have strayed from the path...
-CINDERELLA: Maybe I shouldn't have attended the Ball...
-BAKER: Yes. Maybe you shouldn't have...
+JACK: Maybe I shouldn't have stolen from the Giant
+LRRH: Maybe I shouldn't have strayed from the path
+CINDERELLA: Maybe I shouldn't have attended the Ball
+BAKER: Yes. Maybe you shouldn't have
 JACK: Where are you going?
 BAKER: Away from here.
 LRRH: But you said we had to find our way out of this together.
@@ -996,8 +1001,8 @@ BAKER: It doesn't matter whether we're together or apart.
 JACK: We need your help.
 BAKER: You don't understand. My wife was the one who helped. I depended on her for everything.
 CINDERELLA: You would leave your child?
-BAKER: He'll be happier in the arms of a Princess...
-CINDERELLA: But wait...
+BAKER: He'll be happier in the arms of a Princess
+CINDERELLA: But wait
 BAKER'S FATHER (O.S.): Son.
 BAKER: What are you doing here?
 BAKER (CONT'D): I don't want to talk to you. It's because of you all of this happened. Go away!
@@ -1008,14 +1013,15 @@ BAKER: -- Selfish.
 BAKER'S FATHER:
 YES --:
 BAKER: You stole them and you were caught, and then you did what you do. You just ran away.
-BAKER'S FATHER: When your mother died, I was... I hated myself and I ran from my guilt and my shame...
-BAKER: ... and your son.
+BAKER'S FATHER: When your mother died, I was I hated myself and I ran from my guilt and my shame
+BAKER:
+and your son.:
 BAKER'S FATHER: Yes, and my son. And I'm sorry for that.
 BAKER: If you're looking for forgiveness, you're not going to get it.
-BAKER'S FATHER: I never expected...
+BAKER'S FATHER: I never expected
 BAKER: Then what do you want?
 BAKER'S FATHER: Aren't you making the same mistake? BAKER'S FATHER (CONT'D) Aren't you running away? (the Baker looks
-AWAY): Be better than me, son. Do better...
+AWAY): Be better than me, son. Do better
 JACK: If there were just some way we could surprise the Giant.
 LRRH: She's too tall to surprise.
 CINDERELLA: I knew you wouldn't give up.
@@ -1035,7 +1041,7 @@ LRRH: You can talk to birds?
 CINDERELLA: The birds will do their part.
 BAKER: Okay, we don't have much time.
 JACK: I'm excited.
-BAKER: Here's what we're going to do...
+BAKER: Here's what we're going to do
 CINDERELLA: Your father's being very brave. We're going to be very brave too.
 C'S PRINCE: Are you alright, miss?
 CINDERELLA: The Giant went in that direction.
@@ -1068,10 +1074,10 @@ LRRH: They said always to make them proud and here I am about to kill somebody.
 CINDERELLA: Not somebody. A giant who's done a lot of harm.
 LRRH: But a giant's a person. Aren't we to show forgiveness?
 CINDERELLA: MOTHER CANNOT GUIDE YOU./ NOW YOU'RE ON YOUR OWN./ ONLY ME BESIDE YOU./ STILL, YOU'RE NOT ALONE./ NO ONE IS ALONE, TRULY./ NO ONE IS ALONE.
-LRRH: I WISH...
+LRRH: I WISH
 CINDERELLA: I know.
 JACK: Wait until my mother hears I've slain the Giant.
-BAKER: Jack, there's something you have to know. Your mother...
+BAKER: Jack, there's something you have to know. Your mother
 JACK: What?
 BAKER: She didn't make it.
 JACK: Was she killed by the Giant?
@@ -1085,16 +1091,16 @@ BAKER: It's not as easy as that.
 CINDERELLA: MOTHER ISN'T HERE NOW.
 BAKER:
 (TO JACK;:
-CONCILIATORY): WRONG THINGS, RIGHT THINGS...
+CONCILIATORY): WRONG THINGS, RIGHT THINGS
 CINDERELLA: WHO KNOWS WHAT SHE'D SAY?
 BAKER: WHO CAN SAY WHAT'S TRUE?
 CINDERELLA: NOTHING'S QUITE SO CLEAR NOW.
-BAKER: DO THINGS, FIGHT THINGS...
+BAKER: DO THINGS, FIGHT THINGS
 CINDERELLA: FEEL YOU'VE LOST YOUR WAY?
 BAKER: YOU DECIDE,/ BUT YOU ARE NOT ALONE.
 CINDERELLA: YOU ARE NOT ALONE,/ BELIEVE ME./ NO ONE IS ALONE.
 BAKER: NO ONE IS ALONE,/ BELIEVE ME.
-CINDERELLA: TRULY...
+CINDERELLA: TRULY
 CINDERELLA/BAKER: PEOPLE MAKE MISTAKES.
 BAKER: FATHERS,
 CINDERELLA: MOTHERS,
@@ -1165,14 +1171,14 @@ BAKER: BUT HOW CAN I GO ABOUT BEING A FATHER/ WHEN I HAD NO FATHER TO SHOW ME?
 WIFE: JUST CALM THE CHILD.
 BAKER: YES, CALM THE CHILD.
 WIFE: LOOK, TELL HIM THE STORY/ OF HOW IT ALL HAPPENED./ BE FATHER AND MOTHER,/ YOU'LL KNOW WHAT TO DO.
-BAKER: ALONE...
-WIFE: SOMETIMES PEOPLE LEAVE YOU/ HALFWAY THROUGH THE WOOD./ DO NOT LET IT GRIEVE YOU,/ NO ONE LEAVES FOR GOOD./ YOU ARE NOT ALONE./ NO ONE IS ALONE. HOLD HIM TO THE LIGHT NOW./ LET HIM SEE THE GLOW./ THINGS WILL BE ALL RIGHT NOW./ TELL HIM WHAT YOU KNOW...
+BAKER: ALONE
+WIFE: SOMETIMES PEOPLE LEAVE YOU/ HALFWAY THROUGH THE WOOD./ DO NOT LET IT GRIEVE YOU,/ NO ONE LEAVES FOR GOOD./ YOU ARE NOT ALONE./ NO ONE IS ALONE. HOLD HIM TO THE LIGHT NOW./ LET HIM SEE THE GLOW./ THINGS WILL BE ALL RIGHT NOW./ TELL HIM WHAT YOU KNOW
 BAKER: Shhhh.
 BAKER (CONT'D) WITCH (V.O.):
 WITCH (V.O.):
 BAKER: GUIDE THEM ALONG THE WAY,/ CHILDREN WILL GLISTEN./ CHILDREN WILL LOOK TO YOU/ FOR WHICH WAY TO TURN,/ TO LEARN WHAT TO BE.
 WITCH (V.O.): CAREFUL BEFORE YOU SAY,/ "LISTEN TO ME."/ CHILDREN WILL LISTEN.
 WITCH & ALL (V.O.): CAREFUL THE WISH YOU MAKE,/ WISHES ARE CHILDREN./ CAREFUL THE PATH THEY TAKE--
-/ WISHES COME TRUE,/ NOT FREE.: CAREFUL THE SPELL YOU CAST,/ NOT JUST ON CHILDREN./ SOMETIMES THE SPELL MAY LAST/ PAST WHAT YOU CAN SEE/ AND TURN AGAINST YOU...
-WITCH (V.O.): CAREFUL THE TALE YOU TELL./ THAT IS THE SPELL./ CHILDREN WILL LISTEN...
+/ WISHES COME TRUE,/ NOT FREE.: CAREFUL THE SPELL YOU CAST,/ NOT JUST ON CHILDREN./ SOMETIMES THE SPELL MAY LAST/ PAST WHAT YOU CAN SEE/ AND TURN AGAINST YOU
+WITCH (V.O.): CAREFUL THE TALE YOU TELL./ THAT IS THE SPELL./ CHILDREN WILL LISTEN
 THE END:
