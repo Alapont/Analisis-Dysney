@@ -9,10 +9,10 @@ IntermediateFolder = 'IntermediateScripts'
 treatedFolder = 'TreatedScripts'
 movies = ['IntoTheWoods.txt']
 
+
+puntosSuspensivos = re.compile(r'[.]{2,}')
 frases = [re.compile(r'^[ ]{11}[\w\.\`\"\-\'\()]', re.IGNORECASE)]
-
 comentarios = [re.compile(r'^[ ]{10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE)]
-
 numPag = [re.compile(r'\d+.', re.IGNORECASE)]
 
 parentesis = re.compile(r'\([\w\d\s\.\,\-\'\"\/\:\;\?\!\#]*\)', re.IGNORECASE)
@@ -33,6 +33,7 @@ for x in range(len(movies)):
             for line in reader:
 
                 if line.strip() != '':
+                    line=puntosSuspensivos.sub('',line)
                     # Encontramos indicaciones de escena
                     if(comentarios[x].match(line) == None) & (numPag[x].match(line.strip()) == None) & (parentesis.match(line.strip()) == None):
 

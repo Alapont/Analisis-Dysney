@@ -27,9 +27,7 @@ BONNIE HOPPS: No.
 STU HOPPS: Bunnies don't do that.
 BONNIE HOPPS: Never.
 STU HOPPS: Never.
-YOUNG JUDY: Oh. Then I guess I'll have to be the first one. Because I am gonna make the world...
-(parkours against a:
-vendor's stand): A better place!
+YOUNG JUDY: Oh. Then I guess I'll have to be the first one. Because I am gonna make the world... (parkours against a vendor's stand) A better place!
 STU HOPPS: OR... um, heck, you wanna talk about making the world a better place--
 STU HOPPS (CONT'D): --no better way to do it than becoming a carrot farmer.
 BONNIE HOPPS: Yes! Your dad, me, your 275 brothers and sisters-- we're changing the world.
@@ -472,9 +470,7 @@ HOPPS: Closed. Great.
 NICK: Mm. And I will betcha you don't have a warrant to get in. Hm? Darn it. It's a bummer.
 HOPPS: You wasted the day on purpose.
 NICK: Madam, I have a fake badge. I would never impede your pretend investigation.
-HOPPS: It's not a pretend investigation! Look, see--
-(showing picture of:
-Otterton): See him? This otter is missing.
+HOPPS: It's not a pretend investigation! Look, see-- (showing picture of Otterton) See him? This otter is missing.
 NICK: Well then they should have gotten a real cop to find him.
 HOPPS: What is your problem? Does seeing me fail somehow make you feel better about your own sad, miserable life?
 NICK: It does. One hundred percent. Now... since you're sans warrant, I guess we're done?
@@ -520,9 +516,7 @@ MR. BIG: Then I have only one request: say hello to Gram-mama. Ice `em!
 NICK: Whoa-- I didn't see nothing-- I'm not saying nothing--
 MR. BIG: And you never will--
 NICK: Please! No no no! If you're mad at me about the rug I've got more rugs!
-FRU FRU SHREW: Oh, Daddy, it's time for our dance.
-(sees them trying to kill:
-Nick): What did we say? No icing anyone at my wedding!
+FRU FRU SHREW: Oh, Daddy, it's time for our dance. (sees them trying to kill Nick) What did we say? No icing anyone at my wedding!
 MR. BIG: I have to, baby. Daddy has to. Ice `em.
 FRU FRU SHREW: Wait. WAIT! She's the bunny that saved my life yesterday. From that giant donut.
 MR. BIG: This bunny?
@@ -561,9 +555,7 @@ HOPPS (CONT'D): Head down!
 HOPPS (CONT'D): Officer Hopps to dispatch!
 CLAWHAUSER: Are you familiar with Gazelle? Greatest singer of our lifetime-- angel with horns-- okay, hold on, keep watching. Who's that beside her? Who is it?
 GAZELLE (ON PHONE): Wow, you are one hot dancer... ...BENJAMIN CLAWHAUSER.
-CLAWHAUSER: It's me! Did you think it was real? It looks so real! It's not. It's just a new app.
-(finally notices ringing:
-phone): Hold on a second--
+CLAWHAUSER: It's me! Did you think it was real? It looks so real! It's not. It's just a new app. (finally notices ringing phone) Hold on a second--
 HOPPS (V.O.): CLAWHAUSER!
 Blue Rev. (mm/dd/yy)                  62.:
 HOPPS: Clawhauser, listen to me! We have a Tu-junja!
@@ -607,9 +599,7 @@ NICK: Never let `em see that they get to you.
 HOPPS: So, things do get to you...
 NICK: No... I mean, not anymore. But I was small and emotionally unbalanced like you once.
 HOPPS: Har-har.
-NICK:
-(retreating into the:
-memory): No, it's true. I think was 8, or maybe 9, and all I wanted to do was join the Junior Ranger Scouts.
+NICK: (retreating into the memory) No, it's true. I think was 8, or maybe 9, and all I wanted to do was join the Junior Ranger Scouts.
 DISSOLVE TO::
 NICK (V.O.): ...so, my mom scraped together enough money to buy me a brand new uniform because, by God, I was gonna fit in.
 NICK (V.O.): Even if I was the only predator in the troop--
@@ -643,9 +633,7 @@ NICK: However. If you didn't have access to the system before, I doubt Chief Buf
 HOPPS: No... But I have a friend at City Hall who might.
 BELLWETHER: Sir? If we could just review these very important-- Sir?
 BELLWETHER (CONT'D): Ooo, I'm so sorry... sir?!
-LIONHEART: Okay. I heard you, Bellwether. Just take care of it!
-(setting another binder:
-atop her stack): Please. And clear my afternoon, I'm going out.
+LIONHEART: Okay. I heard you, Bellwether. Just take care of it! (setting another binder atop her stack) Please. And clear my afternoon, I'm going out.
 BELLWETHER: No, no! But, sir, you do have a meeting with Herds and Grazing... sir, if I could just--
 BELLWETHER (CONT'D): Oh, mutton chops.
 HOPPS: Assistant Mayor Bellwether? We need your help.
@@ -653,8 +641,7 @@ HOPPS: We just need to get into the traffic cam database.
 NICK: So fluffy!
 HOPPS: Hey!
 NICK: Sheep never let me this close.
-HOPPS: You can't just touch a sheep's wool...
-NICK                          HOPPS (CONT'D):
+HOPPS: You can't just touch a sheep's wool... NICK                          HOPPS (CONT'D)
 BELLWETHER: Where to?
 HOPPS: Rainforest District, Vine and Tujunga.
 BELLWETHER: There! Traffic cams for the whole city. This is so exciting, actually. Well, you know, I never get to do anything this important.
@@ -718,8 +705,7 @@ GAZELLE (ON PHONE): Wow, you are one hot dancer... ...CHIEF BOGO.
 CLAWHAUSER: Chief Bogo!
 BOGO: Not now!
 CLAWHAUSER: Wait, is that Gazelle?
-BOGO:
-(struggling to silence his:
+BOGO: (struggling to silence his
 phone): No!
 GAZELLE (ON PHONE): I am Gazelle, and you are one hot dancer.
 CLAWHAUSER: You have the app too?! Oh, jeeeeez!
@@ -759,9 +745,7 @@ REPORTER 4: In their DNA? Can you elaborate on that, please?
 HOPPS: Yes. What I mean is, thousands of years ago... um... predators survived through their aggressive hunting instincts. For whatever reason, they seem to be reverting back to their primitive, savage ways.
 REPORTER (O.S.): Of course they did.
 MEAN KID ANIMAL (V.O.): Aw, is he gonna cry.
-REPORTER (O.S.):
-(on Nick, as flashback:
-ends): Officer Hopps, could it happen again?
+REPORTER (O.S.): (on Nick, as flashback ends) Officer Hopps, could it happen again?
 HOPPS: It is possible. So we must be vigilant. And we at the ZPD are prepared and are here to protect you...
 PRESS: Will more mammals go savage? / What is being done to protect us? / Have you considered a mandatory quarantine on predators?
 BELLWETHER: Okay, thank you Officer Hopps, uh, that's all the time that we have. No more questions...
@@ -791,9 +775,7 @@ FEMALE BOBCAT NEWS ANCHOR (CONT'D): A caribou is in critical condition, the vict
 MALE MOOSE NEWS ANCHOR: Meanwhile, a peace rally organized by pop star, Gazelle, was marred by protest.
 PIG: Go back to the forest, predator!
 LEOPARD: I'm from the savannah!
-GAZELLE: Zootopia is a unique place. It's a crazy, beautiful, diverse city where we celebrate our differences.
-(gestures to PROTESTERS in:
-background): This is not the Zootopia I know.
+GAZELLE: Zootopia is a unique place. It's a crazy, beautiful, diverse city where we celebrate our differences. (gestures to PROTESTERS in background) This is not the Zootopia I know.
 GAZELLE (V.O.): The Zootopia I know is better than this.
 GAZELLE (V.O.) (CONT'D): We don't just blindly assign blame. We don't know why these attacks keep happening...
 GAZELLE (V.O.): ...but it is irresponsible to label all predators as savages.

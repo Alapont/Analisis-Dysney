@@ -31,12 +31,12 @@ frases = [re.compile(r'^[ ]{20,25}[\w\.\`\"\-\'\()]', re.IGNORECASE),
           re.compile(r'^[ ]{15,20}[\w\.\`\"\-\'\(\*\?]', re.IGNORECASE),
           re.compile(r'^[ ]{20,25}[\w\.\`\"\-\'\(\*\?]', re.IGNORECASE),
           re.compile(r'^[ ]{20,35}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
-          re.compile(r'^[ ]{8,12}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
+          re.compile(r'^[ ]{8,16}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
           re.compile(r'^[\t]{3}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
           re.compile(r'^[ ]{20,26}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
           re.compile(r'^[\t]{2,3}[\w\.\`\"\-\'\(\*\?\[\ ]', re.IGNORECASE),
           re.compile(r'^[ ]{17,20}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE),
-          re.compile(r'^[ ]{17,22}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE)]
+          re.compile(r'^[ ]{17,27}[\w\.\`\"\-\'\(\*\?\[]', re.IGNORECASE)]
 
 comentarios = [re.compile(r'^[ ]{10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{6}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
@@ -59,7 +59,7 @@ comentarios = [re.compile(r'^[ ]{10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{10,16}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{0}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
                re.compile(r'^[ ]{1,10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE),
-               re.compile(r'^[ ]{1,10}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE)]
+               re.compile(r'^[ ]{1,14}[\w\.\`\"\-\,\[\?\#]', re.IGNORECASE)]
 
 numPag = [re.compile(r'\d+.', re.IGNORECASE),
           re.compile(r'\d+.', re.IGNORECASE),

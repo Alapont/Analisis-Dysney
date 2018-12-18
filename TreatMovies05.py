@@ -9,7 +9,7 @@ treatedFolder = 'TreatedScripts'
 IntermediateFolder = 'IntermediateScripts'
 movies = ['AladdinIIIAndTheKingOfThieves.txt']
 
-escena = re.compile(r'[A-Z .]')
+escena = re.compile(r'[A-Z .]{7,}')
 linea = re.compile(r'[\t]{1,}')
 
 cabecera = [18]
@@ -27,13 +27,14 @@ for x in range(len(movies)):
             for line in reader:
                 # Ignoramos las lineas en blanco y los saltos de escena
                 if line.strip() != '' and escena.match(line.strip()) == None:
+                    if line.startswith('(') == False & line.endswith(')') == False:
 
-                    if linea.match(line.strip()):
-                        tratado[indice-1] = tratado[indice-1] + \
-                            ' ' + line.strip()
-                    else:
-                        tratado.append(line.strip()+': ')
-                        indice += 1
+                        if (linea.match(line.strip()))  or (line.startswith('\t\t')):
+                            tratado[indice-1] = tratado[indice-1] + \
+                                ' ' + line.strip()
+                        else:
+                            tratado.append(line.strip())
+                            indice += 1
 
         # Guardamos los resultados en un fichero
         with open(os.path.join(os.path.join(os.getcwd(), IntermediateFolder), movies[x]), 'w') as writer:
