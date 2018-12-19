@@ -1,0 +1,9 @@
+Gráficas
+-----------
+
+En las gráficas se pueden observar el porcentaje de tiempo en pantalla de las películas de Disney.
+Las películas están ordenados por año de estreno, desde las más antiguas a las más actuales, de derecha a izquierda.
+Los datos recopilados son los tiempos en pantalla de los personajes principales (protagonisstas/antagonistas) y los secundarios más importantes.
+Ésto hace que las películas con protagonistas y personajes secundarios femeninos tengan un porcentaje mayor en cuanto a tiempo en pantalla.
+Por lo cual influye en que la gráfica general esté más equilibrada, ya que al analizar pocas películas y entre ellas tener: Indomable, Del Revés o La Bella Durmiente,
+dónde abundan los personajes femeninos aumenta mucho el porcentaje.
