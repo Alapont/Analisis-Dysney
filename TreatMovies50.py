@@ -11,7 +11,7 @@ womens = ["GIRL'S VOICE", 'SAMANTHA', 'GIRL', 'NICOLE', 'SECRETARY', 'JAMIE', 'S
           'MRS. MENCER', 'OLDER LADY', 'WENDY', 'FEMALE VOICE', 'WAITER', 'JULIE', "SAMANTHA'S TEXT", 'LISA']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = '17Again.csv'
 

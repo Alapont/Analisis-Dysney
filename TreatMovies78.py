@@ -7,12 +7,15 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["PEGGY CARTER", 'HOPE VAN DYNE', 'MAGGIE LANG', 'CASSIE LANG']
+womens = ["WOMAN", 'GIRL', "PIZZA GIRLS FEAR",'COOL GIRLS ANGER','MOMS DISGUST','COOL GIRLS FEAR'
+          ,'TEACHERS FEAR','RILEY','MEG','MOMS FEAR'
+          ,'JORDAN','MOM','MOMS SADNESS','TEACHER','TEACHERS SADNESS','TEACHERS JOY','PIZZA GIRLS ANGER','COOL GIRL'
+          ,'FEAR AND DISGUST','SADNESS','COOL GIRLS SADNESS','RILEYS TEACHER','PIZZA GIRL','MOMS JOY','JOY','MOMS ANGER','ANGER','FEAR']
 
 origin = 'CountWords'
 destination = 'GendersCount'
 
-filename = 'AntMan.csv'
+filename = 'InsideOut.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))
@@ -25,6 +28,8 @@ with open(os.path.join(os.path.join(os.getcwd(), origin), filename), 'r') as rea
         datos = line.split(';')
         if womens.count(datos[0].upper()) > 0:
             genders["woman"] = genders["woman"] + int(datos[1])
+        elif datos[0] == '' or datos[1] == '':
+            pass
         else:
             genders["men"] = genders["men"] + int(datos[1])
 

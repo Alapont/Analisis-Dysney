@@ -7,12 +7,14 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["PEGGY CARTER", 'HOPE VAN DYNE', 'MAGGIE LANG', 'CASSIE LANG']
+womens = ["PEACH", 'WIFE FISH', 'BAILEY', 'WOMAN',
+          'FEMALE WORKER', 'KATHY', 'FEMALE YELLOW FISH', 'YOUNG DORY','DORY','CAROL','FEMALE FISH','FEMALE OTTER TRAINER','SIGOURNEY WEAVER','FEMALE CRAB'
+          ,'FEMALE AQUARIST','JENNY','FEMALE DRIVER','FEMALE EDUCATOR','DEB','DARLA','BARBARA','FEMALE BIRD','FISH MOM','DORY','MARLIN/DORY','KRILL']
 
 origin = 'CountWords'
 destination = 'GendersCount'
 
-filename = 'AntMan.csv'
+filename = 'FindingNemo.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))
@@ -25,6 +27,8 @@ with open(os.path.join(os.path.join(os.getcwd(), origin), filename), 'r') as rea
         datos = line.split(';')
         if womens.count(datos[0].upper()) > 0:
             genders["woman"] = genders["woman"] + int(datos[1])
+        elif datos[0] == '' or datos[1] == '':
+            pass
         else:
             genders["men"] = genders["men"] + int(datos[1])
 

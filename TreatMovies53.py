@@ -10,7 +10,7 @@ genders = dict(men=0, woman=0)
 womens = ["WOMAN", 'JASMINE', 'BOTH', 'ORACLE']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'AladdinIIIAndTheKingOfThieves.csv'
 
