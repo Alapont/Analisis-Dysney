@@ -10,7 +10,7 @@ genders = dict(men=0, woman=0)
 womens = ["BELLE", 'BELLE/CHORUS', 'MRS. POTTS', 'ANGELIQUE','ANGELIQUE/BELLE','LUMIERE/COGSWORTH/BELLE']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'BeautyAndTheBeastTheEnchantedChristmas.csv'
 

@@ -10,7 +10,7 @@ genders = dict(men=0, woman=0)
 womens = ["YOUNG MERIDA", 'THE WITCH', 'MERIDA', 'ELINOR']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'Brave.csv'
 

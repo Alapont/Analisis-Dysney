@@ -10,7 +10,7 @@ genders = dict(men=0, woman=0)
 womens = ["ZEMO'S WIFE", 'NATASHA ROMANOFF', 'MAY PARKER', 'MRS SPENCER','MARIA STARK','SHARON CARTER','MRS. SPENCER','WANDA MAXIMOFF']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'CaptainAmericaCivilWar.csv'
 

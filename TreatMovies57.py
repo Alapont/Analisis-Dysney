@@ -12,7 +12,7 @@ womens = ["MARIE GIGGLES", 'ABIGAIL', 'MARIE TO BERLIOS', 'DUCHESS, MARIE, TOULO
           ,"DUCHESS TO WET O'MALLEY",'FROU-FROU','DUCHESS SIGHES','DUCHESS LAUGHS AND CLAPS',"DUCHESS TO O'MALLEY",'DUCHESS LAUGHS','DUCHESS']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'Aristocats.csv'
 

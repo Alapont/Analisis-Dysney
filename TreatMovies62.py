@@ -12,7 +12,7 @@ womens = ["MITCHIE", 'TESS SINGING', 'SCREAMING GIRLS', 'LOLA','CAITLYN YELLS','
 ,'CAITLYN, PEGGY AND ELLA','DANA','JR ROCKER AUDREY']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'CampRock2TheFinalJam.csv'
 
