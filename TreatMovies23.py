@@ -7,9 +7,9 @@ import re
 moviesFolder = 'Scripts'
 IntermediateFolder = 'IntermediateScripts'
 treatedFolder = 'TreatedScripts'
-movies = ['TheLastJedi.txt']
+movies = ['TheLastJedi.txt','RogeOne.txt']
 
-cabecera = [1]
+cabecera = [1,1]
 
 for x in range(len(movies)):
     indice = 0
