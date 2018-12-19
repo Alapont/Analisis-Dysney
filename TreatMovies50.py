@@ -7,30 +7,33 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["BELLE", "WARDROBE", "BIMBETTES", "JASMINE", "LADY",
-          "WOMEN", "WOMAN", "WOMAN 1", "WOMAN 2", "GYPSY MOTHER", "ESMERALDA"]
+womens = ["GIRL'S VOICE", 'SAMANTHA', 'GIRL', 'NICOLE', 'SECRETARY', 'JAMIE', 'SCARLET', 'MAGGIE',
+          'MRS. MENCER', 'OLDER LADY', 'WENDY', 'FEMALE VOICE', 'WAITER', 'JULIE', "SAMANTHA'S TEXT", 'LISA']
 
 origin = 'CountWords'
 destination = 'GeneresCount'
 
+filename = '17Again.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))
 
-for filename in os.listdir(os.path.join(os.getcwd(), origin)):
-    with open(os.path.join(os.path.join(os.getcwd(), origin), filename), 'r') as reader:
-        for line in reader:
-            for z in range(2):
-                reader.readline()
+with open(os.path.join(os.path.join(os.getcwd(), origin), filename), 'r') as reader:
+    for z in range(2):
+        reader.readline()
+    for line in reader:
 
-            datos = line.split(';')
-            if womens.count(datos[0].upper()) > 0:
-                genders["woman"] = genders["woman"]+1
-            else:
-                genders["men"] = genders["men"]+1
+        datos = line.split(';')
+        if womens.count(datos[0].upper()) > 0:
+            genders["woman"] = genders["woman"] + int(datos[1])
+        else:
+            genders["men"] = genders["men"] + int(datos[1])
 
-    with open(os.path.join(os.path.join(os.getcwd(), destination), filename), 'w') as writer:
-        for key, value in genders.items():
-            writer.write(key + ';' + str(value))
+with open(os.path.join(os.path.join(os.getcwd(), destination), filename), 'w') as writer:
+    writer.write(filename[:-(len(filename)-filename.find('.'))] + '\n')
+
+    for key, value in genders.items():
+        writer.write(key + ';' + str(value)+';\n')
+
 
 del genders
