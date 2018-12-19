@@ -1,28 +1,28 @@
 TheRescuersDownUnder.txt
 Nombre; Palabras
-Everybody;2
-Doctor;171
-Announcer;75
-scene;334
-Bernard;497
-Francois;44
-scene change;8
-Red;53
-Wilbur;1120
-Cricket;2
-Jake;511
-Frank;259
-Bianca;428
-Mom;13
-Nursemice;15
-Bianca and Bernard;3
-Cricket cook;2
-Chairmouse;114
-Everyone;1
-Nursemouse;3
-Baitmouse;47
-McLeach;1085
-Krebbs;83
-Faloo;49
-Mouse;34
-Cody;411
+EVERYBODY;2;
+DOCTOR;171;
+ANNOUNCER;75;
+SCENE;334;
+BERNARD;497;
+FRANCOIS;44;
+SCENE CHANGE;8;
+RED;53;
+WILBUR;1120;
+CRICKET;2;
+JAKE;511;
+FRANK;259;
+BIANCA;428;
+MOM;13;
+NURSEMICE;15;
+BIANCA AND BERNARD;3;
+CRICKET COOK;2;
+CHAIRMOUSE;114;
+EVERYONE;1;
+NURSEMOUSE;3;
+BAITMOUSE;47;
+MCLEACH;1085;
+KREBBS;83;
+FALOO;49;
+MOUSE;34;
+CODY;411;
