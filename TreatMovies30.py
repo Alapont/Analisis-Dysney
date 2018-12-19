@@ -21,6 +21,7 @@ marcasDeEscena4 = re.compile(r'BACKS AWAY::')
 doblesDosPuntos = re.compile(r'::')
 saltosDeLinea = re.compile(r'[\n]{2,}')
 numerosPagina = re.compile(r'[\d]{1,}:')
+tabuladores = re.compile(r'[\\t]{1,}:')
 espaciosEnLosNombres = re.compile(r'[ ]{1,}:[ ]{1,}')
 
 intermediateScripts = 'IntermediateScripts'
@@ -35,6 +36,7 @@ for filename in os.listdir(os.path.join(os.getcwd(), intermediateScripts)):
         # movie = puntosSuspensivos.sub('.', movie)
         movie = puntosSuspensivos2.sub('.', movie)
         movie = comillas.sub('', movie)
+        movie = movie.replace('\t',' ')
         movie = marcasScript2.sub('', movie)
         movie = parentesis.sub('', movie)
         movie = fin.sub('', movie)
