@@ -1,20 +1,20 @@
 Rompe ralph
 	Supera el test Bechdel
 Tiempos:
-	Ralph:				59:05 
+	Rompe Ralph:			59:05 
 	Vanellope:			31:16
-	Reparafelix:		18:21
+	Reparafelix Jr:			18:21
 	Turbo:				10:50
-	Sergeant Calhoun:	10:52
+	Sargento Calhoun:		10:52
 
 Frozen
 	Supera el test Bechdel
 Tiempos:
 	Elsa:				26:09
 	Olaf:				22:30
-	Cristof:			32:48
+	Kristoff:			32:48
 	Anna:				63:00
-	Malo:				12:00
+	Hans:				12:00
 
 Guardianes de la galaxia
 	Supera el test de Bechdel
@@ -27,10 +27,10 @@ Tiempos:
 	Yhondu:				07:47
 	Ronan:				08:26
 
-Guardianes de la galaxia V2
+Guardianes de la galaxia Vol.2
 	Supera test de Bechdel
 Tiempos:
-	Star Lord			45:20
+	Star Lord:			45:20
 	Yhondu:				21:30
 	Ego:				18:24
 	Drax:				19:05
@@ -40,21 +40,21 @@ Tiempos:
 	Groot:				18:33
 	Rocket:				23:05
 
-Hercules:
+Hércules:
 	No supera test de Bechdel
 Tiempos:
-	Hercules:			35:56
+	Hércules:			35:56
 	Filoctetes:			15:37
 	Megara:				19:13
 	Hades:				12:41
 
-Brave:
+Indomable:
 	Supera test de Bechdel
 Tiempos:
 	Fergus:				15:19
 	Bruja:				05:36
 	Principe:			03:03
-	Merida:				52:54
+	Mérida:				52:54
 	Elinor:				44:13
 	Hermanos:			08:00
 	Clanes:				14:25
@@ -90,3 +90,20 @@ Tiempos:
 	Hada madrina:			02:31
 	Anastasia:			03:30
 	Drizella:			03:17
+
+La bella durmiente
+:
+	Supera el test de Bechdel
+Tiempos:
+
+	Aurora:				13:47
+
+	Felipe:				10:54
+	
+Maléfica:			06:58
+
+	Flora:				18:12
+	
+Fauna:				16:18
+	
+Primavera:			17:56
