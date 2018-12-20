@@ -1,60 +1,60 @@
 Resultados en porcentaje de dialogo de mujeres
-Coco:17.41
-FindingNemo:22.18
-IntoTheWoods:42.72
-Brave:75.16
-Thor:26.74
-LittleMermaid:33.88
-TheLionKingIIIHakunaMatata:2.932
-AliceInWonderland:43.22
-Deadpool:11.73
-TheRescuersDownUnder:9.47
-Aladdin:10.93
-Logan:18.2
-Aristocats:39.47
-BeautyAndTheBeastTheEnchantedChristmas:31.5
-TheAvengersInfinityWar:13.27
-TheChroniclesOfNarniaTheLionTheWitchAndTheWardrobe:36.95
-Hercules:19.88
-Cars:11.25
-Tron:9.182
-TheAvengersAgeOfUltron:18.51
-Cars2:1.509
-HighSchoolMusical:45.72
-BeautyAndTheBeast:22.92
-CampRock2TheFinalJam:39.79
-TheLastJedi:31.56
-17Again:24.33
-GuardiansOfTheGalaxyVol2:24.0
-RogeOne:14.78
-TheIncredibles:37.44
-HighSchoolMusical2:42.79
-FindingDory:50.65
-CampRock:50.27
-IronMan2:14.8
-Mulan:20.2
-TheLionKingIISimbasPride:33.4
-TronLegacy:8.818
-PiratesOfTheCaribbeanDeadMan'sChest:14.8
-CaptainAmericaCivilWar:14.39
-HunchbackOfNotreDame:13.4
-HighSchoolMusical3:54.11
-Frozen:42.61
-TheSleepingBeauty:64.11
-TheLionKing:8.973
-TheAvengers:12.26
-AladdinIITheReturnOfJafar:9.2
-InsideOut:70.9
-AGoofyMovie:9.28
-TheNightmareBeforeChristmas:15.15
-Zootropia:44.44
-AntMan:14.96
-PiratesOfTheCaribbean:17.57
-TheJungleBook:10.31
-ThorRagnarock:15.58
-Up:7.221
-Frankenweenie:21.72
-StarWarsEpisodeVIITheForceAwakens:23.52
-Wall-E:12.6
-AladdinIIIAndTheKingOfThieves:7.498
-MaryPoppins:42.55
+1.509%	Cars2
+2.932%	TheLionKingIIIHakunaMatata
+7.221%	Up
+7.498%	AladdinIIIAndTheKingOfThieves
+8.818%	TronLegacy
+8.973%	TheLionKing
+9.182%	Tron
+9.2%	AladdinIITheReturnOfJafar
+9.28%	AGoofyMovie
+9.47%	TheRescuersDownUnder
+10.31%	TheJungleBook
+10.93%	Aladdin
+11.25%	Cars
+11.73%	Deadpool
+12.26%	TheAvengers
+12.6%	Wall-E
+13.27%	TheAvengersInfinityWar
+13.4%	HunchbackOfNotreDame
+14.39%	CaptainAmericaCivilWar
+14.78%	RogeOne
+14.8%	IronMan2
+14.8%	PiratesOfTheCaribbeanDeadMan'sChest
+14.96%	AntMan
+15.15%	TheNightmareBeforeChristmas
+15.58%	ThorRagnarock
+17.41%	Coco
+17.57%	PiratesOfTheCaribbean
+18.2%	Logan
+18.51%	TheAvengersAgeOfUltron
+19.88%	Hercules
+20.2%	Mulan
+21.72%	Frankenweenie
+22.18%	FindingNemo
+22.92%	BeautyAndTheBeast
+23.52%	StarWarsEpisodeVIITheForceAwakens
+24.0%	GuardiansOfTheGalaxyVol2
+24.33%	17Again
+26.74%	Thor
+31.5%	BeautyAndTheBeastTheEnchantedChristmas
+31.56%	TheLastJedi
+33.4%	TheLionKingIISimbasPride
+33.88%	LittleMermaid
+36.95%	TheChroniclesOfNarniaTheLionTheWitchAndTheWardrobe
+37.44%	TheIncredibles
+39.47%	Aristocats
+39.79%	CampRock2TheFinalJam
+42.55%	MaryPoppins
+42.61%	Frozen
+42.72%	IntoTheWoods
+42.79%	HighSchoolMusical2
+43.22%	AliceInWonderland
+44.44%	Zootropia
+45.72%	HighSchoolMusical
+50.27%	CampRock
+50.65%	FindingDory
+54.11%	HighSchoolMusical3
+64.11%	TheSleepingBeauty
+70.9%	InsideOut
+75.16%	Brave

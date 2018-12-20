@@ -1,4 +1,38 @@
 \noindent %Agregar siempre que de por culo la indentación
-\chapter{Solución} 
-\noindent
-%Si el anterior capítulo es la descripción del problema, este es la descripción de la solución
+\chapter{Solución}
+%Si el anterior capítulo es la descripción del problema, este es la descripción de la solución, es decir, como vamos a obtener unos resultados y qué herramientas vamos a utilizar. Como vamos a aplicarlas y por qué son correctas.
+    Nuestro primer planteamiento ha sido solucionar el problema de medir algo subjetivo. Ya que una película puede parecer que deja a las mujeres en un papel mas o menos sumiso. Pero no deja de ser subjetivo. Esto imposibilita el realizar una métrica razonable. Por ello, el primer trabajo que hemos realizado es la búsqueda de métricas. Mas adelante hemos sopesado estas métricas para poder puntuar cada película y así poder compararla.
+\section{Datos a analizar}
+    Dentro de las distintas métricas buscadas, hemos considerado las siguientes:
+    \begin{itemize}
+        \item \textbf{Test de Bechdel:} Valora si en una película la carga argumental pertenece exclusivamente a los varones o si las mujeres obtienen protagonismo. La valoración es booleana.
+        \item \textbf{Sexo de los protagonistas:} Atendiendo únicamente a los protagonistas, se valora el balance entre un género u otro. Aquí hablamos de los personajes sobre los que versa la historia. Generalmente estos personajes se pintan como modelos a seguir, y el mensaje que se obtiene es el de que representan lo positivo y los valores a adoptar. Se obtiene una fracción $[-\infty,\infty]$
+        \item \textbf{Sexo y número de los personajes secundarios:} Al igual que valoramos el sexo de los protagonistas, es importante valorar el sexo de los personajes que compartan la carga argumental sin protagonizar la historia. Esto otorga una idea sobre cómo está poblado el mundo. Se obtiene una fracción $[0,\infty]$
+        \item \textbf{Sexo de los antagonistas:} Tan importante como los protagonistas, es considerar a los antagonistas. De la misma manera que unos plasman roles positivos, ideas a seguir, arquetipos que cumplir y costumbres a adoptar. Un antagonista es una visión de los valores contrarios. Una parte importante de la comunicación audiovisual es la de plasmar gráficamente cómo es un personaje. De esta manera asociamos tonos oscuros con intenciones malignas.
+        \item \textbf{Tiempo en pantalla:} Seleccionando a los personajes con mas peso en la historia y separándolos por sexo, independientemente de si cumplen uno u otro arquetipo. Plasmamos su tiempo en pantalla como una correlación de cuanto puede afectar la presencia de un personaje a la valoración de la película. Se obtiene un ratio $[0,1]$
+        \item \textbf{Cantidad de guión:} Consideramos que hay una correlación entre la cantidad de líneas que hay en un guión atribuidas a un personaje. Esto puede ser especialmente problemático con personajes que no se comunican verbalmente, o en los que quedan registradas líneas que puedan decir de fondo sin que sean parte principal de la película. Un ejemplo de esto puede ser Dumbo o Campanilla.
+        \item \textbf{Definición de arcos argumentales}. Sabiendo que actualmente no se construyen historias partiendo de cero, sino que la tradición popular de contar historias emplea ciertos bloques constructivos para formar. Desde el empleo de ciertas motivaciones recurrentes en las historias, como la princesa en apuros. La plantilla de hacer histórias del monomito también llamado \textit{el mito de héroe} \cite{campbell1989hero}. O la que ha hecho a Disney famosa de reinterpretar obras de dominio público como Macbeth reinterpretada en el Rey león, Los cuentos de los hermanos Grimm, o las últimas reinterpretaciones de sus reinterpretaciones en la Bella y la Bestia.
+    \end{itemize}
+    
+    Ninguna de estas métricas, por si mismas, soluciona el problema de medir objetivamente algo subjetivo. Y Consideramos que ninguna lo hará. Es por esto que consideramos todas las métricas a la vez y las ponderamos. Para ayudarnos de la ley de los grandes números \cite{LeyDeGrandesNumeros}, consideramos que las distintas métricas nos cuentan todas, lo alienada que se encuentra la película de carecer de sesgos hacia uno u otro lado. Así podemos ponerlas en común y compensar los fallos de una u otra con las demás métricas.
+    
+    Otro problema que ofrecen algunas métricas es la dificultad de implementarlas. En el caso del tiempo en pantalla. No hemos encontrado ninguna base de datos de películas en las que se ofrezcan estos datos. por lo tanto hemos tenido que realizarlo a mano para un subconjunto de las películas. Quedando para trabajos futuros la búsqueda o implementación de una herramienta que recopile estos datos o de una base de datos que los incorpore. Por esto, no hemos podido aplicar todas las métricas en todo el documento.
+
+
+\section{Análisis manual}
+    Ante la imposibilidad de analizar automáticamente el tiempo en pantalla hemos seleccionado diez películas para las que hemos cronometrado el tiempo desde cuatro hasta nueve de los personajes mas significativos de la película. No quiere decir los protagonistas o en general el lado con el que se identifica el espectador. Nos interesan los personajes que mas pueden aportar a la trama, se identifiquen con el espectador o en contra o simplemente ejerzan una influencia en la historia.
+\section{Análisis automático}
+Para realizar el análisis automático de los guiones se ha planteado una arquitectura de flujo ya que las operaciones a realizar son comunes y consecutivas a todos los guiones. Para esto se ha utilizado tecnología Python, desarrollada a medida para el proyecto. Todo el proyecto está alojado en el repositorio Disney.
+Debido a la forma de flujos de pasos se procede a explicar estos de forma secuencial:
+\begin{itemize}
+    \item \textbf{Extracción de las líneas de guión} \\\\
+        \textit{(Scripts: TreatMovies0X.py, TreatMovies1X.py, TreatMovies2X.py)} En estos scripts se realiza la operación principal de obtención de información, extrayendo el nombre del personaje y las frases que aparecen en el guión, eliminado la información adicional que no es objeto de este análisis, como comentarios de movimiento de personajes y marcas de escenas. Debido a los diferentes formatos encontrados, los guiones se han catalogado en 23 tipos distintos, realizando el análisis línea a línea de cada uno de los ficheros disponibles.
+    \item \textbf{Limpieza} \\\\
+        \textit{(Scripts: TreatMovies3X.py)} En esta sección se limpian los textos obtenidos de caracteres y comentarios que si bien aparecen dentro de las entradas de cada uno de los personajes en el guión de la película, no son frases pronunciadas por los personajes y no deben tenerse en cuenta en el análisis.
+    \item \textbf{Contar palabras}\\\\
+        \textit{(Scripts: TreatMovies4X.py)} Una vez que tenemos limpios los textos de cada personaje, realizamos un conteo del número de palabras que aparecen en el guión de cada película, para cada uno de los personajes
+    \item \textbf{Contabilizar por género}\\\\
+        \textit{(Scripts: TreatMovies5X.py, TreatMovies6X.py, TreatMovies7X.py, TreatMovies8X.py, TreatMovies9X.py, TreatMovies10X.py)} Con la información obtenida, cuantas palabras tiene cada uno de los personajes, se realiza un análisis película a película obteniendo la suma total palabras pronunciadas diferenciadas por géneros.
+    \item \textbf{Resultados finales}\\\\
+        \textit{(Scripts: TreatMovies12X.py)} Por último se recorren todos los datos generados en el paso anterior y se genera un documento con el porcentaje de palabras pronunciadas por personajes femeninos
+\end{itemize}

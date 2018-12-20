@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{book}
+\documentclass[12pt, a4paper, oneside]{book}
 \usepackage[spanish]{babel}
 \usepackage[utf8]{inputenc}
 \input{data/settings.tex}
@@ -15,9 +15,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \begin{document}
+\pagenumbering{Roman}
 \input{data/title.tex}
 %\input{data/derechos.tex} No es necesario pero se puede agregar, quedaría bien si se imprime en cuero por ejemplo porque estaría en la primera página útil, si no, queda raro.
 \input{data/abstract.tex}
+\input{data/abstractT.tex}
 \input{data/index.tex}
 %%%% Chapters
 \input{Chapters/Chapter1}%Estado del Arte
@@ -27,9 +29,10 @@
 \input{Chapters/Chapter5}%Conclusiones
 \input{Chapters/Chapter6}%Trabajos futuros
 \newpage
-
 \bibliographystyle{unsrt}
 \bibliography{biblio}
+\addcontentsline{toc}{chapter}{\protect\numberline{7}Bibliografía y enlaces de referencia}%0
+\thispagestyle{empty}
 
 
 %%%%%%%%%%%%%%%%%%%%%% COMENTAR ESTAS DOS LÍNEAS PARA QUITAR AUTORÍA
