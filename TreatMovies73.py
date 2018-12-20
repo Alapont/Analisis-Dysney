@@ -7,12 +7,13 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["PEGGY CARTER", 'HOPE VAN DYNE', 'MAGGIE LANG', 'CASSIE LANG']
+womens = ["WOMAN", 'MUSE 2 STARTS SINGING', 'TALL WOMAN', 'FAN GILS',
+          'MUSE 5 SINGS', 'HERA','FAN GIRLS','HEAVY WOMAN','MUSES SING IN BACKGROUND','MUSES SING','MEGARA','HEAVY WOMAN','THIN WOMAN','MEGARA SIGHES','CLOTHO']
 
 origin = 'CountWords'
 destination = 'GendersCount'
 
-filename = 'AntMan.csv'
+filename = 'Hercules.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))
@@ -25,6 +26,8 @@ with open(os.path.join(os.path.join(os.getcwd(), origin), filename), 'r') as rea
         datos = line.split(';')
         if womens.count(datos[0].upper()) > 0:
             genders["woman"] = genders["woman"] + int(datos[1])
+        elif datos[0] == '' or datos[1] == '':
+            pass
         else:
             genders["men"] = genders["men"] + int(datos[1])
 

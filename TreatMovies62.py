@@ -7,12 +7,14 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["PEGGY CARTER", 'HOPE VAN DYNE', 'MAGGIE LANG', 'CASSIE LANG']
+womens = ["MITCHIE", 'TESS SINGING', 'SCREAMING GIRLS', 'LOLA','CAITLYN YELLS','SIERRA','CAITLYN','ELLA','PEGGY'
+,'CONNIE','SCREAMING GIRLS','MITCHIE/CAITLYN','CAITLYN/MITCHIE','DEE LA DUKE','PEGGY, CAITLYN AND ELLA','MITCHIE AND PEGGY','CAMP STAR GIRL'
+,'CAITLYN, PEGGY AND ELLA','DANA','JR ROCKER AUDREY']
 
 origin = 'CountWords'
 destination = 'GendersCount'
 
-filename = 'AntMan.csv'
+filename = 'CampRock2TheFinalJam.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))

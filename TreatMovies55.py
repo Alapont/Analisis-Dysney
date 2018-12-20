@@ -10,7 +10,7 @@ genders = dict(men=0, woman=0)
 womens = ["2ND LILY", 'ROSE', 'QUEEN', 'ALICE & CARD PAINTERS','LILY','SISTER','DINAH','ALICE','MARGUERITE']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'AliceInWonderland.csv'
 

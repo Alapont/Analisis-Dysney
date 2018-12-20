@@ -11,7 +11,7 @@ womens = ["MITCHIE", 'TESS SINGING', 'SCREAMING GIRLS', 'LOLA','CAITLYN YELLS','
 ,'CONNIE','SCREAMING GIRLS','MITCHIE/CAITLYN','CAITLYN/MITCHIE','DEE LA DUKE']
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'CampRock.csv'
 

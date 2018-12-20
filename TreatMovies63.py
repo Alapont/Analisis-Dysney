@@ -7,12 +7,12 @@ import os
 import re
 
 genders = dict(men=0, woman=0)
-womens = ["PEGGY CARTER", 'HOPE VAN DYNE', 'MAGGIE LANG', 'CASSIE LANG']
+womens = ["ZEMO'S WIFE", 'NATASHA ROMANOFF', 'MAY PARKER', 'MRS SPENCER','MARIA STARK','SHARON CARTER','MRS. SPENCER','WANDA MAXIMOFF']
 
 origin = 'CountWords'
 destination = 'GendersCount'
 
-filename = 'AntMan.csv'
+filename = 'CaptainAmericaCivilWar.csv'
 
 if os.path.exists(os.path.join(os.getcwd(), destination)) == False:
     os.mkdir(os.path.join(os.getcwd(), destination))

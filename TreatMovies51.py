@@ -12,7 +12,7 @@ womens = ["MISS MAPLES", 'CHEERLEADERS', 'GIRL', 'LITTLE GIRL', 'NUNS', 'ROXANNE
           ]
 
 origin = 'CountWords'
-destination = 'GeneresCount'
+destination = 'GendersCount'
 
 filename = 'AGoofyMovie.csv'
 
